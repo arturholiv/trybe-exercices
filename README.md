@@ -6,7 +6,7 @@ This repositoy contain all projects developed by _[Artur H. de Oliveira](https:/
 
 ##### Bloco 1: Introduçao - Unix & Shell
 
-- [ ] 1-3: Unix & Shell- Part 1_
-- [ ] 1-4: Unix & Shell- Part 2_
+- [x] 1-3: Unix & Shell- Part 1_
+- [x] 1-4: Unix & Shell- Part 2_
 
 #### Bloco 2: Git & GitHub

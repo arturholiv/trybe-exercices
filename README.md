@@ -1,6 +1,8 @@
-#Trybe Projects 
+# Trybe Projects
 
 This repositoy contain all projects developed by _[Artur H. de Oliveira](https://www.linkedin.com/in/arturholiv/)_ while studiyng at [Trybe](https://www.betrybe.com/) :rocket:
+<blockquote> The web development training program from Trybe has a workload of 1500 hours that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
+The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, among others languages and frameworks.</blockquote>
 
 ## Fundamentos do Desenvolvimento Web 
 

@@ -1,0 +1,6 @@
+Apartir do momento que digitamos enter isso acontece:
+O cliente envia uma requisição HTTP (atravez de uma CDN) usando um protocolo TCP/IP 
+Passa por um balanceador de carga que direciona à um porta especifica do servidor
+O servidor processa a requisição e acessa o banco de dados 
+retorna para o cliente uma resposta no protocolo HTTP (atravez de uma CDN)
+

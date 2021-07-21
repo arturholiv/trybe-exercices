@@ -2,7 +2,7 @@
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 
-Este repositório contêm todas as atividades que estão sendo desenvolvidas por _[mim]_(https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2020 à 2021.
+Este repositório contêm todas as atividades que estão sendo desenvolvidas por [mim](https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2020 à 2021.
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 

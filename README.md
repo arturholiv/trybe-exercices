@@ -27,9 +27,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 3: Introdução - HTML & CSS
 
-:black_large_square: 3-1: _HTML & CSS - Estruturas de página_
+:ballot_box_with_check: 3-1: _HTML & CSS - Estruturas de página_
 
-:black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_
 
 :black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
 
@@ -466,9 +466,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 3: Introduction - HTML & CSS
 
-:black_large_square: 3-1: _HTML & CSS - Page structure_
+:ballot_box_with_check: 3-1: _HTML & CSS - Page structure_
 
-:black_large_square: 3-2: _HTML & CSS - First steps_
+:ballot_box_with_check: 3-2: _HTML & CSS - First steps_
 
 :black_large_square: 3-3: _HTML & CSS - Selectors and positioning_
 

@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center
+}
+
+li:active{
+    color: rgb(0, 94, 0)
+}
+
+li:hover{
+    background-color: greenyellow;
+}
+body{
+    background-color: rgb(206, 224, 40);
+}

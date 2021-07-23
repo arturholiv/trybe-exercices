@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(172, 151, 151);
+}
+
+div:active{
+    border-color: rgb(83, 4, 4)
+}
+
+h3{
+font-style: italic
+}
+
+h3:active{
+    border-color:rgb(46, 11, 11)
+}
+
+.div1{
+    color:red
+}
+
+.div2{
+   color: orange;
+}
+
+.div3{
+    color:purple
+}
+
+.div4{
+   color: rgb(58, 35, 35);
+}
+
+.div5{
+    color: lightgreen
+

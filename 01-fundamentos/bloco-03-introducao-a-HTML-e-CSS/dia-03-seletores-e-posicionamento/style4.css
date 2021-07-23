@@ -32,4 +32,8 @@ h3:active{
 
 .div5{
     color: lightgreen
+}
 
+h3:hover{
+    background-color: rgb(80, 67, 67);
+}

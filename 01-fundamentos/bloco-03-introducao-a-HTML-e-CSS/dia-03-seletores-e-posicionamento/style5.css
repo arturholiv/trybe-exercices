@@ -1,0 +1,57 @@
+    ol{
+        background-color: yellow;
+    }
+
+    .par{
+        color:green
+    }
+
+    .impar{
+        text-transform: uppercase
+    }
+
+    .header{
+        color :red
+    }
+
+    .italico{
+        font-size: 40px;
+        border: 1px solid black;
+    }
+
+    li{
+    size:20px
+    }
+
+    li .italico{
+        font-weight: bold;
+    }
+    .prim3{
+        color :blue
+    }
+
+    .javas{
+        background-color: pink ;
+    }
+
+    .sites:hover{
+        font-weight: bold;
+    }
+    .stack:hover{
+        background-color: orange;
+    }
+.w3s:hover{
+    background-color: green;
+}
+
+.mdn:hover{
+    background-color: rgb(66, 66, 66);
+}
+
+.devdocs:hover{
+    background-color:yellow
+}
+
+.trybe:hover{
+    background-color: green;
+}

@@ -33,7 +33,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 3-3: _HTML & CSS - Seletores e posicionamento_
 
-:black_large_square: 3-4: _HTML Semântico_
+:ballot_box_with_check: 3-4: _HTML Semântico_
 
 :black_large_square: 3-5: _Projeto - Lesson Learned_
   
@@ -472,7 +472,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 3-3: _HTML & CSS - Selectors and positioning_
 
-:black_large_square: 3-4: _HTML semantic elements_
+:ballot_box_with_check: 3-4: _HTML semantic elements_
 
 :black_large_square: 3-5: _Project - Lesson Learned_
 

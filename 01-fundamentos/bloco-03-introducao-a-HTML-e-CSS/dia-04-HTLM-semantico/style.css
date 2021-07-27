@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://wallpapersfull.com/wallpapers/2019/agua-no-fundo-do-mar-wallpaper-14241.jpg);
+}
+
+aside{
+    position: absolute;
+    left:70%;
+    top: 18% ;
+    background-color:deeppink;
+    text-align: center;
+    margin: auto ;
+}
+
+header{
+    background-color: sandybrown;
+    text-align: center
+
+}
+
+img{
+    
+}
+
+
+.navigation-links{
+    text-align:center;
+}
+.cards{
+    width: 300px;
+    display: inline-block;
+    border: 5px solid #black;
+    padding-left: 25px;
+    background-color: sandybrown;
+}
+
+.aside{
+    position: absolute;
+    left:80%;
+}

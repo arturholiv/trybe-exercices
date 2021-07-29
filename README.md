@@ -35,13 +35,13 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 3-4: _HTML Semântico_
 
-:black_large_square: 3-5: _Projeto - Lesson Learned_
+:ballot_box_with_check: 3-5: _Projeto - Lesson Learned_
   
 ### Bloco 4: Introdução - JavaScript e Lógica
 
-:black_large_square:  4-1: _JavaScript - Primeiros passos_
+:ballot_box_with_check:  4-1: _JavaScript - Primeiros passos_
 
-:black_large_square: 4-2: _JavaScript - Array e loop For_
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
 :black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
@@ -474,14 +474,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 3-4: _HTML semantic elements_
 
-:black_large_square: 3-5: _Project - Lesson Learned_
+:ballot_box_with_check: 3-5: _Project - Lesson Learned_
 
   
 ### Part 4: Introduction - JavaScript and Logic
 
-:black_large_square: 4-1: _JavaScript - First steps_
+:ballot_box_with_check: 4-1: _JavaScript - First steps_
 
-:black_large_square: 4-2: _JavaScript - Array e loop For_
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
 :black_large_square: 4-3: _JavaScript - Programming Logic and Algorithms_
 

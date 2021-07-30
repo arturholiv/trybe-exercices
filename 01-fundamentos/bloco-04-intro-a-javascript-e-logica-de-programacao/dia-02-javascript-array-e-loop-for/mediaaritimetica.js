@@ -3,7 +3,8 @@ let some = 0;
 let media = 0;
 
 for(let i = 0; i < numbers.length; i += 1) {
-   media = (some += numbers[i]) / 2;
+   media = (some += numbers[i]) / numbers.length;
+   console.log(media);
 }
 
 console.log(media);

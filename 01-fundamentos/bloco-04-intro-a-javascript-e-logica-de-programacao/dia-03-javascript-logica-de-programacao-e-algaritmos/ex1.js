@@ -2,14 +2,13 @@
 
 //fazer um quadrado de asteriscos n vezes
 //
-let n = 2
-let symbol = '*'
-let inputLine = '';
+let n = 100;
+const symbol = "*";
+let line = ""
 
-for ( let index = 0 ; index < n ; index += 1 ){
-    inputLine = inputLine + symbol 
+for( let index = 0 ; index < n ; index += 1){
+    line += symbol
 }
-for ( let index = 0 ; index < n ; index += 1 ) {
-    console.log(inputLine)
+for( let index = 0 ; index < n ; index += 1) {
+    console.log(line)
 }
-

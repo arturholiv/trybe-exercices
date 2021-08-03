@@ -43,7 +43,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
 :black_large_square: 4-4: _JavaScript - Objetos e funções_
 
@@ -483,7 +483,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 4-2: _JavaScript - Array & loop For_
 
-:black_large_square: 4-3: _JavaScript - Programming Logic and Algorithms_
+:ballot_box_with_check: _JavaScript - Programming Logic and Algorithms_
 
 :black_large_square: 4-4: _JavaScript - Objects and functions_
 

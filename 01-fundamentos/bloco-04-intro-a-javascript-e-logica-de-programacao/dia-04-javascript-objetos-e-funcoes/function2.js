@@ -1,15 +1,20 @@
 // 2 - Crie uma função que receba um array de inteiros e retorne o índice do maior valor.
 
-let numbers = [12, 2, 21, 54, 33,15]
+//passar de elemento em elemento no array >> verificar qual é o maior >> retornar o maior valor;;;
 
-function indiceDoMaior() {
-    for(let number in numbers) {
-       for(let i = 0; i < numbers.length; i += 1){
-          if (number [i] > number [i-1]){
-              return numbers[i]
-          }
-       }
+var numbersArray = [12, 2, 21, 54, 33,15]
+
+function higherNumber (numbersArray) {
+   let numbers = numbersArray.join()
+   numbers = numbers.sort()
+  for (let index = 0; index < numbersArray.length; index += 1)
+    for(let number of numbersArray){
+        if (number > numbersArray[index]){
+            return number
+        }
     }
 }
 
-console.log(indiceDoMaior(numbers));
+// console.log(higherNumber(numbers))
+
+console.log(numbers.join().sort())

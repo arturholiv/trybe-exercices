@@ -1,6 +1,6 @@
 function changeName (){
  let parag = document.getElementsByTagName("p")[0];
-parag.innerHTML = 'Com um bom emprego ou projeto e morando em outra cidade';
+parag.innerHTML = 'Com um bom emprego ou projeto e morando em outra cidade'
 }
 changeName()
 

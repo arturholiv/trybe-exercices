@@ -52,9 +52,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
 
-:black_large_square: 5-1: _JavaScript - DOM e seletores_
+:ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 
-:black_large_square: 5-2: _JavaScript - Trabalhando com elementos_
+:ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
 
 :black_large_square: 5-3: _JavaScript - Eventos_
 
@@ -492,9 +492,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 5: Javascript: DOM, Events and Web Storage
 
-:black_large_square: 5-1: _JavaScript - DOM and selectors_
+:ballot_box_with_check: 5-1: _JavaScript - DOM and selectors_
 
-:black_large_square: 5-2: _JavaScript - Working with elements_
+:ballot_box_with_check: 5-2: _JavaScript - Working with elements_
 
 :black_large_square: 5-3: _JavaScript - Events_
 

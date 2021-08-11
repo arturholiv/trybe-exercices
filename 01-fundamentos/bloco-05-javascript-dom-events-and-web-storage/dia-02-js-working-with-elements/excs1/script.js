@@ -45,9 +45,10 @@ for(let num in counting){
  console.log(unorderedList)
 
 //exc 9
-let titleH3 = document.createElement('h3')
-for(let i = 0; i <= 3 ; i += 1){
-    mainElement.appendChild(titleH3[i])
+for(let i = 0; i < 3 ; i += 1){
+    var titleH3 = document.createElement('h3');
+    titleH3.innerText = 'anyText'
+    mainElement.appendChild(titleH3);
 }
 
 
@@ -60,14 +61,17 @@ tagH1.className = 'title';
 titleH3.className = 'description';
 
 //exc 3
-[0].main.removeChild(leftSection);
+var leftContent = document.getElementsByClassName('left-content')[0];
+mainElement.removeChild(leftContent);
 
 //exc 4
-document.getElementsByClassName('right-content')[0].style.marginRight = 'auto';
+let rightContent = document.getElementsByClassName('right-content')[0];
+rightContent.style.marginRight = 'auto';
 
 //exc 5
-document.getElementsByClassName('center-content')[0].parentNode.style.backgroundColor = 'rgb(76, 164, 109)';
+let centerContent = document.getElementsByClassName('center-content')[0]
+centerContent.parentNode.style.backgroundColor = 'rgb(76, 164, 109)';
 
 //exc 6
-document.getElementsByTagName('ul').removeElement().lastElementChild.lastElementChild;
-
+unorderedList.lastChild.remove()
+unorderedList.lastChild.remove()

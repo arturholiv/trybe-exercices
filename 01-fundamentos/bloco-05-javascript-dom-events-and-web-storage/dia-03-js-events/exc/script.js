@@ -187,6 +187,7 @@ var corPadrao = 'rgb(119,119,119)';
 var corDeFundo = diaDoMes.style.color;
 var selected = document.getElementsByClassName('task selected');
 
+
 diaDoMes.addEventListener('click', function (event){
  if(selected.length > 0 && corDeFundo !== cor ){
      event.target.style.color = cor

@@ -64,7 +64,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-:black_large_square: 5.5: _Projeto: Arte com Pixels_
+:ballot_box_with_check: 5.5: _Projeto: Arte com Pixels_
 
 :black_large_square: 5-6: _Projeto - Lista de tarefas_
 
@@ -508,7 +508,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-:black_large_square: 5.5: _Project - Art with Pixels_
+:ballot_box_with_check: 5.5: _Project - Art with Pixels_
 
 :black_large_square: 5-6: _Project - To Do List_
 

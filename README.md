@@ -77,9 +77,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 6: HTML & CSS avançado
 
-:black_large_square: 6-1: _HTML & CSS - Forms_
+:ballot_box_with_check: 6-1: _HTML & CSS - Forms_
 
-:black_large_square: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+:ballot_box_with_check: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 
 :black_large_square: 6-3: _CSS Flexbox - Part 1_
 
@@ -521,9 +521,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 6: advanced HTML & CSS 
 
-:black_large_square: 6-1: _HTML & CSS - Forms_
+:ballot_box_with_check: 6-1: _HTML & CSS - Forms_
 
-:black_large_square: 6-2: _JavaScript libraries and CSS Frameworks_
+:ballot_box_with_check: 6-2: _JavaScript libraries and CSS Frameworks_
 
 :black_large_square: 6-3: _CSS Flexbox - Part 1_
 

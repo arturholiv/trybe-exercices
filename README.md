@@ -85,9 +85,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 6-4: _CSS Flexbox - Part 2_
 
-:black_large_square: 6-5: _CSS Responsivo - Mobile First_
+:ballot_box_with_check: 6-5: _CSS Responsivo - Mobile First_
 
-:black_large_square: 6-6: _Projeto - Trybewarts_
+:ballot_box_with_check: 6-6: _Projeto - Trybewarts_
 
 
 ### Bloco 7: JavaScript ES6 & Testes Unitários
@@ -529,9 +529,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 6-4: _CSS Flexbox - Part 2_
 
-:black_large_square: 6-5: _Responsive CSS - Mobile First_
+:ballot_box_with_check: 6-5: _Responsive CSS - Mobile First_
 
-:black_large_square: 6-6: _Project - Trybewarts_
+:ballot_box_with_check: 6-6: _Project - Trybewarts_
 
 
 ### Part 7: JavaScript ES6 & Unit testing

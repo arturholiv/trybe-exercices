@@ -92,7 +92,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 7: JavaScript ES6 & Testes Unitários
 
-:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+:ballot_box_with_check: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 
 :black_large_square: 7-2: _JavaScript ES6 - Objects_
 
@@ -537,7 +537,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ### Part 7: JavaScript ES6 & Unit testing
 
 
-:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+:ballot_box_with_check: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 
 :black_large_square: 7-2: _JavaScript ES6 - Objects_
 

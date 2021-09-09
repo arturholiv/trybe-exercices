@@ -107,9 +107,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+:ballot_box_with_check: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 
-:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
@@ -552,9 +552,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
+:ballot_box_with_check: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
 
-:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :black_large_square: 8-5: _JavaScript ES6 - Spread operator, rest parameter, destructuring and more_
 

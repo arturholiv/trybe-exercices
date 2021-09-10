@@ -111,7 +111,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+:ballot_box_with_check: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
 :black_large_square: 8-5: _Projeto - Zoo functions_
 
@@ -556,7 +556,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:black_large_square: 8-5: _JavaScript ES6 - Spread operator, rest parameter, destructuring and more_
+:ballot_box_with_check: 8-5: _JavaScript ES6 - Spread operator, rest parameter, destructuring and more_
 
 :black_large_square: 8-5: _Project - Zoo functions_
 

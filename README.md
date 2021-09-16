@@ -118,7 +118,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 9: Javascript Assíncrono e Promises
 
-:black_large_square: 9-1: _JavaScript Assíncrono e Callbacks_
+:ballot_box_with_check: 9-1: _JavaScript Assíncrono e Callbacks_
 
 :black_large_square: 9-2: _JavaScript Promises_
 
@@ -563,7 +563,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 9: Asynchronous Javascript and Promises
 
-:black_large_square: 9-1: _JavaScript Async and Callbacks_
+:ballot_box_with_check: 9-1: _JavaScript Async and Callbacks_
 
 :black_large_square: 9-2: _JavaScript Promises_
 

@@ -113,14 +113,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
-:black_large_square: 8-5: _Projeto - Zoo functions_
+:ballot_box_with_check: 8-5: _Projeto - Zoo functions_
 
 
 ### Bloco 9: Javascript Assíncrono e Promises
 
 :ballot_box_with_check: 9-1: _JavaScript Assíncrono e Callbacks_
 
-:black_large_square: 9-2: _JavaScript Promises_
+:ballot_box_with_check: 9-2: _JavaScript Promises_
 
 :black_large_square: 9-3: _Projeto - Carrinho de Compras_
 
@@ -558,14 +558,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 8-5: _JavaScript ES6 - Spread operator, rest parameter, destructuring and more_
 
-:black_large_square: 8-5: _Project - Zoo functions_
+:ballot_box_with_check: 8-5: _Project - Zoo functions_
 
 
 ### Part 9: Asynchronous Javascript and Promises
 
 :ballot_box_with_check: 9-1: _JavaScript Async and Callbacks_
 
-:black_large_square: 9-2: _JavaScript Promises_
+:ballot_box_with_check: 9-2: _JavaScript Promises_
 
 :black_large_square: 9-3: _Project - Shopping Cart_
 

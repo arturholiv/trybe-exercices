@@ -127,7 +127,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 10: Testes automatizados com Jest
 
-:black_large_square: 10-1: _Primeiros passos no Jest_
+:ballot_box_with_check: 10-1: _Primeiros passos no Jest_
 
 :black_large_square: 10-2: _Jest - Testes Assíncronos_
 
@@ -572,7 +572,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 10: Automate Testing using Jest
 
-:black_large_square: 10-1: _First steps with Jest_
+:ballot_box_with_check: 10-1: _First steps with Jest_
 
 :black_large_square: 10-2: _Testing Asynchronous using Jest_
 

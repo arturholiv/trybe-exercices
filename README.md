@@ -2,7 +2,7 @@
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 
-Este repositório contêm todas as atividades que estão sendo desenvolvidas por [mim](https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2020 à 2021.
+Este repositório contém todas as atividades que estão sendo desenvolvidas por [mim](https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2020 à 2021.
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
@@ -122,14 +122,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Projeto - Carrinho de Compras_
+:ballot_box_with_check: 9-3: _Projeto - Carrinho de Compras_
 
 
 ### Bloco 10: Testes automatizados com Jest
 
-:black_large_square: 10-1: _Primeiros passos no Jest_
+:ballot_box_with_check: 10-1: _Primeiros passos no Jest_
 
-:black_large_square: 10-2: _Jest - Testes Assíncronos_
+:ballot_box_with_check: 10-2: _Jest - Testes Assíncronos_
 
 :black_large_square: 10-3: _Jest - Simulando comportamentos_
 
@@ -567,14 +567,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Project - Shopping Cart_
+:ballot_box_with_check: 9-3: _Project - Shopping Cart_
 
 
 ### Part 10: Automate Testing using Jest
 
-:black_large_square: 10-1: _First steps with Jest_
+:ballot_box_with_check: 10-1: _First steps with Jest_
 
-:black_large_square: 10-2: _Testing Asynchronous using Jest_
+:ballot_box_with_check: 10-2: _Testing Asynchronous using Jest_
 
 :black_large_square: 10-3: _Jest - Simulating behaviors_
 

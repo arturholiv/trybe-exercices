@@ -122,14 +122,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Projeto - Carrinho de Compras_
+:ballot_box_with_check: 9-3: _Projeto - Carrinho de Compras_
 
 
 ### Bloco 10: Testes automatizados com Jest
 
 :ballot_box_with_check: 10-1: _Primeiros passos no Jest_
 
-:black_large_square: 10-2: _Jest - Testes Assíncronos_
+:ballot_box_with_check: 10-2: _Jest - Testes Assíncronos_
 
 :black_large_square: 10-3: _Jest - Simulando comportamentos_
 
@@ -567,14 +567,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Project - Shopping Cart_
+:ballot_box_with_check: 9-3: _Project - Shopping Cart_
 
 
 ### Part 10: Automate Testing using Jest
 
 :ballot_box_with_check: 10-1: _First steps with Jest_
 
-:black_large_square: 10-2: _Testing Asynchronous using Jest_
+:ballot_box_with_check: 10-2: _Testing Asynchronous using Jest_
 
 :black_large_square: 10-3: _Jest - Simulating behaviors_
 

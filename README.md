@@ -133,7 +133,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 10-3: _Jest - Simulando comportamentos_
 
-:black_large_square: 10-4: _Projeto - Jest Assíncrono e Mocking_
+:ballot_box_with_check: 10-4: _Projeto - Jest Assíncrono e Mocking_
 
   
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
@@ -577,7 +577,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 10-3: _Jest - Simulating behaviors_
 
-:black_large_square: 10-4: _Project - Asynchronous Jest and Mocking_
+:ballot_box_with_check: 10-4: _Project - Asynchronous Jest and Mocking_
 
 
 ## Front-end development :hourglass_flowing_sand:

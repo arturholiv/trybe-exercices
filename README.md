@@ -6,7 +6,7 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
-## Fundamentos do Desenvolvimento Web [x]
+## Fundamentos do Desenvolvimento Web :ballot_box_with_check:
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)

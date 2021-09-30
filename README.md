@@ -6,7 +6,7 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
-## Fundamentos do Desenvolvimento Web :ballot_box_with_check:
+## Fundamentos do Desenvolvimento Web  :ballot_box_with_check:
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
@@ -449,8 +449,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 <blockquote>The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.</blockquote>
 
-## Web development fundamentals :hourglass_flowing_sand:
-
+## Web development fundamentals :ballot_box_with_check:
 
 ### Part 1: [Introduction - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 

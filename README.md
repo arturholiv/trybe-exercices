@@ -29,7 +29,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 3-1: _HTML & CSS - Estruturas de página_
 
-:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_ 
 
 :ballot_box_with_check: 3-3: _HTML & CSS - Seletores e posicionamento_
 

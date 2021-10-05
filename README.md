@@ -6,7 +6,7 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
-<details open>
+<details close>
 <summary> <strong> Fundamentos do Desenvolvimento Web  :ballot_box_with_check: <strong> </summary>
 
 
@@ -372,11 +372,11 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 ### Bloco 32: Projeto
 
 :black_large_square: 32-1: _Projeto - Trybeer V_
+ 
+ </details>
 
 <details open> 
 <summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
-
-</details>
  
 ### Bloco 33: Introdução - Ciência da Computação
 

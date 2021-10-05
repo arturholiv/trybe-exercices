@@ -139,7 +139,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 </details>
 
   
-<details open> 
+<details close> 
 <summary> <strong>Desenvolvimento Front-end :hourglass_flowing_sand: <strong> </summary>
 
 
@@ -227,7 +227,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  </details>
  
  
-<details open> 
+<details close> 
 <summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
 
 
@@ -375,7 +375,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  </details>
 
-<details open> 
+<details close> 
 <summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
  
 ### Bloco 33: Introdução - Ciência da Computação
@@ -458,7 +458,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 <blockquote>The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.</blockquote>
 
- <details open> 
+ <details close> 
 <summary> <strong> Web development fundamentals :ballot_box_with_check: <strong> </summary>
 
 ### Part 1: [Introduction - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
@@ -592,7 +592,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 </details>
 
 
-<details open> 
+<details close> 
 <summary> <strong> Front-end development :hourglass_flowing_sand: <strong> </summary>
 
 
@@ -678,7 +678,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  
  </details>
 
-<details open> 
+<details close> 
 <summary> <strong> Back-end development :hourglass_flowing_sand: <strong> </summary>
 
 
@@ -825,7 +825,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
  </details>
  
-<details open> 
+<details close> 
 <summary> <strong> Computer Science :hourglass_flowing_sand: <strong> </summary>
 
  

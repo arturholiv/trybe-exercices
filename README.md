@@ -6,7 +6,8 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+<details close>
+<summary> <strong> Fundamentos do Desenvolvimento Web  :ballot_box_with_check: <strong> </summary>
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
@@ -29,7 +30,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 3-1: _HTML & CSS - Estruturas de página_
 
-:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_ 
 
 :ballot_box_with_check: 3-3: _HTML & CSS - Seletores e posicionamento_
 
@@ -133,17 +134,20 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 10-3: _Jest - Simulando comportamentos_
 
-:black_large_square: 10-4: _Projeto - Jest Assíncrono e Mocking_
+:ballot_box_with_check: 10-4: _Projeto - Jest Assíncrono e Mocking_
+ 
+</details>
 
   
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+<details close> 
+<summary> <strong>Desenvolvimento Front-end :hourglass_flowing_sand: <strong> </summary>
 
 
 ### Bloco 11: Introdução - React
 
-:black_large_square: 11-1: _'Hello, world!' no React!_
+:ballot_box_with_check: 11-1: _'Hello, world!' no React!_
 
-:black_large_square: 11-2: _Componentes React_
+:ballot_box_with_check: 11-2: _Componentes React_
 
 :black_large_square: 11-3: _Projeto - Movie Cards Library_
 
@@ -219,9 +223,12 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 ### Bloco 19: Projeto Final de Front-end
 
 :black_large_square: 19-1: _Projeto - App de Receitas_
-
-
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+ 
+ </details>
+ 
+ 
+<details close> 
+<summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
 
 
 ### Bloco 20: Introdução - SQL
@@ -365,10 +372,11 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 ### Bloco 32: Projeto
 
 :black_large_square: 32-1: _Projeto - Trybeer V_
+ 
+ </details>
 
-
-## Ciência da Computação :hourglass_flowing_sand:
-
+<details close> 
+<summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
  
 ### Bloco 33: Introdução - Ciência da Computação
 
@@ -437,6 +445,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :black_large_square: 38-4: _Projeto: TING - Trybe Is Not Google_
 
+</details>
  
 # [...]
 
@@ -449,8 +458,8 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 <blockquote>The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.</blockquote>
 
-## Web development fundamentals :hourglass_flowing_sand:
-
+ <details close> 
+<summary> <strong> Web development fundamentals :ballot_box_with_check: <strong> </summary>
 
 ### Part 1: [Introduction - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
@@ -578,17 +587,20 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 10-3: _Jest - Simulating behaviors_
 
-:black_large_square: 10-4: _Project - Asynchronous Jest and Mocking_
+:ballot_box_with_check: 10-4: _Project - Asynchronous Jest and Mocking_
+ 
+</details>
 
 
-## Front-end development :hourglass_flowing_sand:
+<details close> 
+<summary> <strong> Front-end development :hourglass_flowing_sand: <strong> </summary>
 
 
 ### Part 11: Introduction - React
 
-:black_large_square: 11-1: _'Hello, world!' with React!_
+:ballot_box_with_check: 11-1: _'Hello, world!' with React!_
 
-:black_large_square: 11-2: _React components_
+:ballot_box_with_check: 11-2: _React components_
 
 :black_large_square: 11-3: _Project - Movie Cards Library_
 
@@ -663,9 +675,11 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ### Part 19: Front-end's final project
 
 :black_large_square: 19-1: _Project - Recipes app_
+ 
+ </details>
 
-
-## Back-end development :hourglass_flowing_sand:
+<details close> 
+<summary> <strong> Back-end development :hourglass_flowing_sand: <strong> </summary>
 
 
 ### Part 20: Introduction - SQL
@@ -809,8 +823,10 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :black_large_square: 34-1: _Project - Trybeer V_
 
-
-## Computer Science :hourglass_flowing_sand:
+ </details>
+ 
+<details close> 
+<summary> <strong> Computer Science :hourglass_flowing_sand: <strong> </summary>
 
  
 ### Bloco 33: Introduction - Computer Science
@@ -880,4 +896,5 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :black_large_square: 38-4: _Project: TING - Trybe Is Not Google_
 
+ </details>
 

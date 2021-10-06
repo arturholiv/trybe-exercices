@@ -145,9 +145,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 11: Introdução - React
 
-:black_large_square: 11-1: _'Hello, world!' no React!_
+:ballot_box_with_checkv: 11-1: _'Hello, world!' no React!_
 
-:black_large_square: 11-2: _Componentes React_
+:ballot_box_with_check: 11-2: _Componentes React_
 
 :black_large_square: 11-3: _Projeto - Movie Cards Library_
 
@@ -598,9 +598,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 11: Introduction - React
 
-:black_large_square: 11-1: _'Hello, world!' with React!_
+:ballot_box_with_check: 11-1: _'Hello, world!' with React!_
 
-:black_large_square: 11-2: _React components_
+:ballot_box_with_check: 11-2: _React components_
 
 :black_large_square: 11-3: _Project - Movie Cards Library_
 

@@ -145,7 +145,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 11: Introdução - React
 
-:ballot_box_with_checkv: 11-1: _'Hello, world!' no React!_
+:ballot_box_with_check: 11-1: _'Hello, world!' no React!_
 
 :ballot_box_with_check: 11-2: _Componentes React_
 

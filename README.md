@@ -155,7 +155,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
 ### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
-:black_large_square: 12-1: _Components com estado e eventos_
+:ballot_box_with_check: 12-1: _Components com estado e eventos_
 
 :black_large_square: 12-2: _Formulários no React_
 
@@ -607,7 +607,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 12: Compenents with state, events and forms with React
 
-:black_large_square: 12-1: _Components with state and events_
+:ballot_box_with_check: 12-1: _Components with state and events_
 
 :black_large_square: 12-2: _Forms in React_
 

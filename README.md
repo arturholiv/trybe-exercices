@@ -7,7 +7,7 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
 <details close>
-<summary> <strong> Fundamentos do Desenvolvimento Web  :check: <strong> </summary>
+<summary> <strong> Fundamentos do Desenvolvimento Web  [x] <strong> </summary>
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)

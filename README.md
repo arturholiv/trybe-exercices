@@ -7,7 +7,7 @@ Este repositório contém todas as atividades que estão sendo desenvolvidas por
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
 <details close>
-<summary> <strong> Fundamentos do Desenvolvimento Web  :ballot_box_with_check: <strong> </summary>
+<summary> <strong> Fundamentos do Desenvolvimento Web  :heavy_check_mark: <strong> </summary>
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
@@ -155,7 +155,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
 ### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
-:black_large_square: 12-1: _Components com estado e eventos_
+:ballot_box_with_check: 12-1: _Components com estado e eventos_
 
 :black_large_square: 12-2: _Formulários no React_
 
@@ -459,7 +459,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.</blockquote>
 
  <details close> 
-<summary> <strong> Web development fundamentals :ballot_box_with_check: <strong> </summary>
+<summary> <strong> Web development fundamentals :heavy_check_mark: <strong> </summary>
 
 ### Part 1: [Introduction - Unix & Shell](https://github.com/arturholiv/trybe-exercices/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
@@ -607,7 +607,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 12: Compenents with state, events and forms with React
 
-:black_large_square: 12-1: _Components with state and events_
+:ballot_box_with_check: 12-1: _Components with state and events_
 
 :black_large_square: 12-2: _Forms in React_
 

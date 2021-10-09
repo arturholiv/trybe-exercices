@@ -149,7 +149,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 11-2: _Componentes React_
 
-:black_large_square: 11-3: _Projeto - Movie Cards Library_
+:ballot_box_with_check: 11-3: _Projeto - Movie Cards Library_
 
  
  
@@ -157,7 +157,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 12-1: _Components com estado e eventos_
 
-:black_large_square: 12-2: _Formulários no React_
+:ballot_box_with_check: 12-2: _Formulários no React_
 
 :black_large_square: 12-3: _Projeto - Movie Cards Library Stateful_
 
@@ -602,14 +602,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 11-2: _React components_
 
-:black_large_square: 11-3: _Project - Movie Cards Library_
+:ballot_box_with_check: 11-3: _Project - Movie Cards Library_
 
 
 ### Part 12: Compenents with state, events and forms with React
 
 :ballot_box_with_check: 12-1: _Components with state and events_
 
-:black_large_square: 12-2: _Forms in React_
+:ballot_box_with_check: 12-2: _Forms in React_
 
 :black_large_square: 12-3: _Project - Movie Cards Library Stateful_
 

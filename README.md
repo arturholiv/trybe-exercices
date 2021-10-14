@@ -1,4 +1,4 @@
-# Trybe
+# Trybe.
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 

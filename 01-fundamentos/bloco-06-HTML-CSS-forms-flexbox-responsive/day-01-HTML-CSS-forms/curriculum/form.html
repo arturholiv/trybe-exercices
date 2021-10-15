@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+  
+</head>
+<body class="container">
+  <header class="form-header" >
+    <h1>Curriculum Vitae</h1>
+  <p>Preencha os campos abaixo</p> 
+</header>
+<form method="GET" action="" class="js-form">
+   <fieldset class="form-group">
+    <div class="mb-3">
+      <label class= "form-label" for="nome">Nome completo:    </label>
+      <input  type="text" class="form-control" name="nome" maxlength="40" minlength="3" id="nome" required>
+    </div>
+    <div class="mb-3">
+      <label class= "form-label" for="email">E-mail:</label> 
+      <input type="email"   class="form-control" name="email" maxlength="50" id="email" remote required >
+    </div>
+    <div class="mb-3">
+      <label class= "form-label" for="cpf"> CPF:</label>  
+      <input type="text" class="form-control" name="cpf" maxlength="11" id="cpf" required >
+    </div>
+    <div class="mb-3">
+      <label for="">Endereço:</label>
+      <input type="text"  class="form-control"  name="endereco" id="endereco" required>
+    </div>
+    <div class="mb-3">
+      <label class= "form-label" for="cidade">Cidade:</label>
+      <input type="text" class="form-control"  name="cidade" id="cidade" maxlength="28" required>
+    </div>
+    <div class="mb-3">
+      <label for="estado">Estado:</label>
+      <select name=""  class="form-control" id="estado"></select>
+    </div>
+    
+    <div class="form-group">
+      <label for="houseType" class="form-label">Tipo de imóvel:</label>
+      <div class='form-group'>
+      <label class="form-check-label" for="houseType"> 
+      <input type="radio" class="form-check-input" name="houseType" id="house" value="house" required>
+      Casa
+    </label>
+  </div>
+  <div class='form-group'>
+      <label class="form-check-label" for="houseType"> 
+      <input type="radio" class="form-check-input" name="houseType" id="apartment" value="apartment" required>
+      Apartamento
+    </label>
+  </div>
+    </div>
+    
+  </fieldset>
+  
+  <fieldset>
+    <label class= "form-label " for="resumo">Resumo do Currículo:</label>
+    <textarea id='resumo' rows="10" cols="100" maxlength="1000" required></textarea>
+    
+    <label class= "form-label" for="cargo">Cargo:</label>
+    <input type="text" id="cargo" name="cargo" required maxlength="40">
+    
+    <label class= "form-label"  for="">Descrição do cargo:</label>
+    <input type="text" id="descricao" name="descricao" value="" maxlength="500" required>
+    
+    <label class= "form-label" for="data-inicio">Data de início: </label>
+    <input type="date" id="data-inicio" name="data-inicio">
+  </fieldset>
+  
+  <button type="submit" class="btn">
+    Enviar
+  </button>
+  
+  <button type="button" class="btn btn-default">
+    limpar
+  </button>
+  
+  <script src="./script.js"></script>
+  <script src="./path/to/just-validate.min.js"></script>
+</form>
+</body>
+</html>

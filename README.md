@@ -616,7 +616,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 13: Lifecycle of components and  React Router
 
-:black_large_square: 13-1: _Lifecycle of componenets _
+:ballot_box_with_check: 13-1: _Lifecycle of componenets _
 
 :black_large_square: 13-2: _React Router_
 

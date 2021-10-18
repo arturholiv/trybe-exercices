@@ -164,7 +164,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-:black_large_square: 13-1: _Ciclo de vida de componentes_
+:ballot_box_with_check: 13-1: _Ciclo de vida de componentes_
 
 :black_large_square: 13-2: _React Router_
 

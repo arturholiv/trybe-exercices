@@ -159,14 +159,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 12-2: _Formulários no React_
 
-:black_large_square: 12-3: _Projeto - Movie Cards Library Stateful_
+:ballot_box_with_check: 12-3: _Projeto - Movie Cards Library Stateful_
 
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
 
 :ballot_box_with_check: 13-1: _Ciclo de vida de componentes_
 
-:black_large_square: 13-2: _React Router_
+:ballot_box_with_check: 13-2: _React Router_
 
 :black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
 
@@ -611,14 +611,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 12-2: _Forms in React_
 
-:black_large_square: 12-3: _Project - Movie Cards Library Stateful_
+:ballot_box_with_check: 12-3: _Project - Movie Cards Library Stateful_
 
 
 ### Part 13: Lifecycle of components and  React Router
 
 :ballot_box_with_check: 13-1: _Lifecycle of componenets _
 
-:black_large_square: 13-2: _React Router_
+:ballot_box_with_check: 13-2: _React Router_
 
 :black_large_square: 13-3: _Project - Movie Cards Library CRUD_
 

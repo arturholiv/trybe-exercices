@@ -1,4 +1,4 @@
-# Trybe.
+# Trybe
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 
@@ -159,14 +159,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 12-2: _Formulários no React_
 
-:black_large_square: 12-3: _Projeto - Movie Cards Library Stateful_
+:ballot_box_with_check: 12-3: _Projeto - Movie Cards Library Stateful_
 
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-:black_large_square: 13-1: _Ciclo de vida de componentes_
+:ballot_box_with_check: 13-1: _Ciclo de vida de componentes_
 
-:black_large_square: 13-2: _React Router_
+:ballot_box_with_check: 13-2: _React Router_
 
 :black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
 
@@ -611,14 +611,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 12-2: _Forms in React_
 
-:black_large_square: 12-3: _Project - Movie Cards Library Stateful_
+:ballot_box_with_check: 12-3: _Project - Movie Cards Library Stateful_
 
 
 ### Part 13: Lifecycle of components and  React Router
 
-:black_large_square: 13-1: _Lifecycle of componenets _
+:ballot_box_with_check: 13-1: _Lifecycle of componenets _
 
-:black_large_square: 13-2: _React Router_
+:ballot_box_with_check: 13-2: _React Router_
 
 :black_large_square: 13-3: _Project - Movie Cards Library CRUD_
 

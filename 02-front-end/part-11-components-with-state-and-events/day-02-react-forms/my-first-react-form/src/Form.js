@@ -4,23 +4,29 @@ import './Form.css'
 class Form extends Component {
   constructor() {
     super();
-
-    this.handleChange = this.handleChange.bind(this);
-
+    
     this.state = {
       estadoFavorito: '',
+      nome: '',
+      idade: '',
       vaiComparecer: false,
     };
+    
+        this.handleChange = this.handleChange.bind(this);
   }
 
 
-  handleChange(event) {
+  handleChange({ target }) {
+    const { name } = target
+    const value = target.type === 'checkbox' ? target.checked : target.value;
     this.setState({
-      estadoFavorito: event.target.value,
+      [name]: value,
     });
   }
 
   render() {
+    const { estadoFavorito, nome, idade, vaiComparecer } = this.state;
+
     return (
       <div>
         <h1>Estados e React - Tecnologia fantástica ou reagindo a regionalismos?</h1>
@@ -29,7 +35,8 @@ class Form extends Component {
             Diga qual o seu Estado favorito! De React ou do Brasil, você decide! 
               <textarea
               name="estadoFavorito" 
-
+              value={ estadoFavorito }
+              onChange={ this.handleChange }
               />
           </label>
              
@@ -38,15 +45,19 @@ class Form extends Component {
           <input
               type="text"
               name="name"
+              value={ nome }
+              onChange={ this.handleChange }
             />  
           </label>   
 
-          <label htmlFor="age">
+          <label htmlFor="idade">
               Idade:
               <select
-                id="age"
-                name="age"
+                id="idade"
+                name="idade"
                 defaultValue=""
+                onChange={ this.handleChange }
+                value={ idade }
               >
                 <option value="">Selecione</option>
                 <option value="adult"> +18</option>
@@ -54,17 +65,15 @@ class Form extends Component {
               </select>
             </label>
 
-          <label>
+          <label htmlFor="vaiComparecer">
             Vai comparecer
             <input
               type="checkbox"
               name="vaiComparecer"
               onChange={this.handleChange}
-              value={this.state.vaiComparecer}
+              value={ vaiComparecer }
             />
           </label>
-
-    
         </form>
       </div>
     );

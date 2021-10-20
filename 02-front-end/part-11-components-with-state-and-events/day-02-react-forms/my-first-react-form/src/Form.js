@@ -9,6 +9,7 @@ class Form extends Component {
 
     this.state = {
       estadoFavorito: '',
+      vaiComparecer: false,
     };
   }
 
@@ -26,16 +27,44 @@ class Form extends Component {
         <form className="form">
           <label>
             Diga qual o seu Estado favorito! De React ou do Brasil, você decide! 
-              <textarea name="estadoFavorito" value={this.state.estadoFavorito} onChange={this.handleChange} />
+              <textarea
+              name="estadoFavorito" 
+
+              />
           </label>
+             
+          <label >
+            Nome:
           <input
-            type="number"
-            name="idade"
-          />
-          <input
-            type="checkbox"
-            name="vaiComparecer"
-          />
+              type="text"
+              name="name"
+            />  
+          </label>   
+
+          <label htmlFor="age">
+              Idade:
+              <select
+                id="age"
+                name="age"
+                defaultValue=""
+              >
+                <option value="">Selecione</option>
+                <option value="adult"> +18</option>
+                <option value="underage"> -18</option>
+              </select>
+            </label>
+
+          <label>
+            Vai comparecer
+            <input
+              type="checkbox"
+              name="vaiComparecer"
+              onChange={this.handleChange}
+              value={this.state.vaiComparecer}
+            />
+          </label>
+
+    
         </form>
       </div>
     );

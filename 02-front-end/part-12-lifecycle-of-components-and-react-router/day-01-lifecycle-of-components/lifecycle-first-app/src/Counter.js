@@ -19,7 +19,7 @@ class Counter extends React.Component {
   }
 
   componentDidUpdate(prevProps, prevState) {
-    console.log("componentDidUpdate");
+   console.log("componentDidUpdate", this.state, prevState)
   }
 
   render() {

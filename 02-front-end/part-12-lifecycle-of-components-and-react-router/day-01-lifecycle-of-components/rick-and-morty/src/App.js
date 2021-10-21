@@ -24,6 +24,7 @@ class App extends Component {
 
   render() {
     const { characters } = this.state;
+    const loading = <span>Loading...</span>;
     return (
       <div className="App">
         <h1>
@@ -32,10 +33,11 @@ class App extends Component {
         <div className="body">
           {characters.map(({ name, image }) => {
             return (
-              <div className="container" key={name}>
+              characters ?
+              (<div className="container" key={name}>
                 <h3>{name}</h3>
                 <img src={image} alt={name}/>
-              </div>
+              </div>) : loading
             )
           })}
         </div>

@@ -14,7 +14,7 @@ class Counter extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    console.log("shouldComponentUpdate");
+    console.log("shouldComponentUpdate", this.state, nextState);
     return true;
   }
 

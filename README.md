@@ -173,7 +173,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 14: Metodologias ágeis
 
-:black_large_square: 14-1: _Metodologias ágeis_
+:ballot_box_with_check: 14-1: _Metodologias ágeis_
 
 :black_large_square: 14-2: _Projeto - Frontend Online Store_
 
@@ -625,7 +625,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 14: Agile Methodologies
 
-:black_large_square: 14-1: _Agile Methodologies_
+:ballot_box_with_check: 14-1: _Agile Methodologies_
 
 :black_large_square: 14-2: _Project - Frontend Online Store_
 

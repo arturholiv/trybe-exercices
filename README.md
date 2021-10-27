@@ -168,7 +168,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 13-2: _React Router_
 
-:black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
+:ballot_box_with_check: 13-3: _Projeto - Movie Cards Library CRUD_
 
 
 ### Bloco 14: Metodologias ágeis
@@ -620,7 +620,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 13-2: _React Router_
 
-:black_large_square: 13-3: _Project - Movie Cards Library CRUD_
+:ballot_box_with_check: 13-3: _Project - Movie Cards Library CRUD_
 
 
 ### Part 14: Agile Methodologies

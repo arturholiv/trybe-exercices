@@ -175,7 +175,8 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 14-1: _Metodologias ágeis_
 
-:black_large_square: 14-2: _Projeto - Frontend Online Store_
+:ballot_box_with_check: 14-2: _Projeto - Frontend Online Store_
+ 
 
 ### Bloco 15: Testes automatizados com React Testing Library
 
@@ -627,7 +628,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 14-1: _Agile Methodologies_
 
-:black_large_square: 14-2: _Project - Frontend Online Store_
+:ballot_box_with_check: 14-2: _Project - Frontend Online Store_
 
 
 ### Part 15: Automated testing with React Testing Library

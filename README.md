@@ -180,7 +180,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 15: Testes automatizados com React Testing Library
 
-:black_large_square: 15-1: _RTL - Primeiros Passos_
+:ballot_box_with_check: 15-1: _RTL - Primeiros Passos_
 
 :black_large_square: 15-2: _RTL - Mocks e Inputs_
 
@@ -633,7 +633,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 15: Automated testing with React Testing Library
 
-:black_large_square: 15-1: _RTL - First steps_
+:ballot_box_with_check: 15-1: _RTL - First steps_
 
 :black_large_square: 15-2: _RTL - Mocks e Inputs_
 

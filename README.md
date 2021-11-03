@@ -168,20 +168,21 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 13-2: _React Router_
 
-:black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
+:ballot_box_with_check: 13-3: _Projeto - Movie Cards Library CRUD_
 
 
 ### Bloco 14: Metodologias ágeis
 
-:black_large_square: 14-1: _Metodologias ágeis_
+:ballot_box_with_check: 14-1: _Metodologias ágeis_
 
-:black_large_square: 14-2: _Projeto - Frontend Online Store_
+:ballot_box_with_check: 14-2: _Projeto - Frontend Online Store_
+ 
 
 ### Bloco 15: Testes automatizados com React Testing Library
 
-:black_large_square: 15-1: _RTL - Primeiros Passos_
+:ballot_box_with_check: 15-1: _RTL - Primeiros Passos_
 
-:black_large_square: 15-2: _RTL - Mocks e Inputs_
+:ballot_box_with_check: 15-2: _RTL - Mocks e Inputs_
 
 :black_large_square: 15-2: _RTL: Testando com React Router_
 
@@ -620,21 +621,21 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 13-2: _React Router_
 
-:black_large_square: 13-3: _Project - Movie Cards Library CRUD_
+:ballot_box_with_check: 13-3: _Project - Movie Cards Library CRUD_
 
 
 ### Part 14: Agile Methodologies
 
-:black_large_square: 14-1: _Agile Methodologies_
+:ballot_box_with_check: 14-1: _Agile Methodologies_
 
-:black_large_square: 14-2: _Project - Frontend Online Store_
+:ballot_box_with_check: 14-2: _Project - Frontend Online Store_
 
 
 ### Part 15: Automated testing with React Testing Library
 
-:black_large_square: 15-1: _RTL - First steps_
+:ballot_box_with_check: 15-1: _RTL - First steps_
 
-:black_large_square: 15-2: _RTL - Mocks e Inputs_
+:ballot_box_with_check: 15-2: _RTL - Mocks e Inputs_
 
 :black_large_square: 15-2: _RTL: Testing with React Router_
 

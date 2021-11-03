@@ -182,7 +182,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 15-1: _RTL - Primeiros Passos_
 
-:black_large_square: 15-2: _RTL - Mocks e Inputs_
+:ballot_box_with_check: 15-2: _RTL - Mocks e Inputs_
 
 :black_large_square: 15-2: _RTL: Testando com React Router_
 

@@ -635,7 +635,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 15-1: _RTL - First steps_
 
-:black_large_square: 15-2: _RTL - Mocks e Inputs_
+:ballot_box_with_check: 15-2: _RTL - Mocks e Inputs_
 
 :black_large_square: 15-2: _RTL: Testing with React Router_
 

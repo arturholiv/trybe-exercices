@@ -184,7 +184,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 15-2: _RTL - Mocks e Inputs_
 
-:black_large_square: 15-2: _RTL: Testando com React Router_
+:ballot_box_with_check: 15-2: _RTL: Testando com React Router_
 
 :black_large_square: 15-3: _Projeto - Testes em React_
 
@@ -637,7 +637,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 15-2: _RTL - Mocks and Inputs_
 
-:black_large_square: 15-2: _RTL: Testing with React Router_
+:ballot_box_with_check: 15-2: _RTL: Testing with React Router_
 
 :black_large_square: 15-3: _Project - Tests with React_
 

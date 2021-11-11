@@ -189,7 +189,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 :black_large_square: 15-3: _Projeto - Testes em React_
 
 
-### Bloco 16: Introdução ao Redux
+### Bloco 16: Redux
 
 :ballot_box_with_check: 16-1: _Introdução ao Redux - O estado global da aplicação_
 
@@ -642,7 +642,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 :black_large_square: 15-3: _Project - Tests with React_
 
 
-### Part 16: Introduction to Redux
+### Part 16: Redux
 
 :ballot_box_with_check: 16-1: _Introduction to Redux - The global state of the application_
 

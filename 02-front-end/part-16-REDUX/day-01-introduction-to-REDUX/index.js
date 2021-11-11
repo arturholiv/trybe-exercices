@@ -24,6 +24,12 @@ const INITIAL_STATE = {
   
   const store = Redux.createStore(reducer);
 
+  store.subscribe(() => {
+    const state = store.getState();
+    const wrapper = document.getElementById('wrapper');
+    wrapper.className = state.login
+  });
+
   store.dispatch(fazerLogin("alguem@email.com"));
 
   console.log(store.getState());

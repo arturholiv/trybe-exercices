@@ -186,14 +186,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 15-2: _RTL: Testando com React Router_
 
-:black_large_square: 15-3: _Projeto - Testes em React_
+:ballot_box_with_check: 15-3: _Projeto - Testes em React_
 
 
 ### Bloco 16: Redux
 
 :ballot_box_with_check: 16-1: _Introdução ao Redux - O estado global da aplicação_
 
-:black_large_square: 16-2: _Usando o Redux no React_
+:ballot_box_with_check: 16-2: _Usando o Redux no React_
 
 :black_large_square: 16-3: _Usando o Redux no React - Prática_
 
@@ -639,14 +639,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 15-2: _RTL: Testing with React Router_
 
-:black_large_square: 15-3: _Project - Tests with React_
+:ballot_box_with_check: 15-3: _Project - Tests with React_
 
 
 ### Part 16: Redux
 
 :ballot_box_with_check: 16-1: _Introduction to Redux - The global state of the application_
 
-:black_large_square: 16-2: _Using React Redux_
+:ballot_box_with_check: 16-2: _Using React Redux_
 
 :black_large_square: 16-3: _Using React Redux - Práctices_
 

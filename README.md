@@ -648,7 +648,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 16-2: _Using React Redux_
 
-:black_large_square: 16-3: _Using React Redux - Práctices_
+:black_large_square: 16-3: _Using React Redux - Practices_
 
 :black_large_square: 16-4: _Using React Redu - Async Actions_
 

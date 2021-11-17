@@ -197,7 +197,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 16-3: _Usando o Redux no React - Prática_
 
-:black_large_square: 16-4: _Usando o Redux no React - Actions Assíncronas_
+:ballot_box_with_check: 16-4: _Usando o Redux no React - Actions Assíncronas_
 
 :black_large_square: 16-5: _Testes em React-Redux_
 
@@ -650,7 +650,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 16-3: _Using React Redux - Practices_
 
-:black_large_square: 16-4: _Using React Redu - Async Actions_
+:ballot_box_with_check: 16-4: _Using React Redux - Async Actions_
 
 :black_large_square: 16-5: _Testing with  React-Redux_
 

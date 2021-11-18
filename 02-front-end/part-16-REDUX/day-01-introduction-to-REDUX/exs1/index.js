@@ -19,7 +19,7 @@ const fazerLogin = (email) => ({
 const INITIAL_STATE = {
   login: false,
   email: "",
-  };
+};
   
 //  Uma store só funciona se passarmos uma função que será responsável por alterar os dados dela: o reducer
   const reducer = (state = INITIAL_STATE, action) => {

@@ -17,7 +17,7 @@
     <div id="container">
       <h1>Informações do segundo Reducer:</h1>
       <p>Nome: <span id="nome-2">Bruna</span></p>
-      <p>Sobrenome: <span id="sobrenome-2">Santana Oliveira</span></p>
+      <p>Sobrenome: <span id="sobrenome-2">Santana yuiertyurtyuOliveira</span></p>
       <p>Endereço: <span id="endereco-2">Rua Holanda, 332</span></p>
       <p>Cidade: <span id="cidade-2">São Paulo</span></p>
     </div>
@@ -62,8 +62,33 @@
         }
       };
 
-      const todosReducers = Redux.combineReducers(meuPrimeiroReducer, meuSegundoReducer)
-      const store = Redux.createStore(todosReducers)    
+      const todosReducers = Redux.combineReducers({meuPrimeiroReducer, meuSegundoReducer});
+
+      const store = Redux.createStore(todosReducers);    
+
+      window.onload = () => {
+      setTimeout(() => {
+        store.dispatch({
+          type: 'ALTERAR_PRIMEIRO_NOME_E_SOBRENOME',
+          nome: 'Arturio',
+          sobrenome: 'Santana Oliveira',
+        });
+        store.dispatch({
+          type: 'ALTERAR_SEGUNDO_NOME_E_SOBRENOME',
+          nome: 'Lubregis',
+          sobrenome: 'Santos da Silva',
+        });
+      }, 2000);
+    };
+
+      store.subscribe(() => {
+        const { meuPrimeiroReducer, meuSegundoReducer } = store.getState();
+       document.getElementById('nome-1').innerHTML = meuPrimeiroReducer.nome;
+       document.getElementById('sobrenome-1').innerHTML = meuPrimeiroReducer.sobrenome
+
+       document.getElementById('nome-2').innerHTML = meuSegundoReducer.nome;
+       document.getElementById('sobrenome-2').innerHTML = meuSegundoReducer.sobrenome
+      });
     </script>
   </body>
 </html>

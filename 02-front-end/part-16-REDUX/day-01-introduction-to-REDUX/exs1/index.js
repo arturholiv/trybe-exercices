@@ -37,12 +37,16 @@ const INITIAL_STATE = {
   
   const store = Redux.createStore(reducer);
 
+// SUBSCRIBE . Ele adiciona um listener que executará uma callback toda vez que uma action for despachada
+
   store.subscribe(() => {
     const state = store.getState();
     const wrapper = document.getElementById('wrapper');
     wrapper.className = state.login
   });
 
+
+  // Função responsável por DESPACHAR uma action para o reducer, atualizando a store
   store.dispatch(fazerLogin("alguem@email.com"));  //  dispatch altera
 
   console.log(store.getState()); // getstate é para ler o obj

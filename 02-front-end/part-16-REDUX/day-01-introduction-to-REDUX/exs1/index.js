@@ -21,6 +21,8 @@ const INITIAL_STATE = {
   email: "",
 };
   
+
+// The reducer is simply a pure function that takes state and action, then returns new state. !!!!!!!!!!!!!!!!!!!
 //  Uma store só funciona se passarmos uma função que será responsável por alterar os dados dela: o reducer
   const reducer = (state = INITIAL_STATE, action) => {
     switch (action.type) {

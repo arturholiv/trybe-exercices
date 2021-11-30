@@ -201,13 +201,13 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 16-5: _Testes em React-Redux_
 
-:black_large_square:16-6: _Projeto - Trybe Wallet_
+:ballot_box_with_check: 16-6: _Projeto - Trybe Wallet_
 
   
 
 ### Bloco 17: Projeto React
 
-:black_large_square: 17-1: _Projeto - Jogo de Trivia_
+:ballot_box_with_check: 17-1: _Projeto - Jogo de Trivia_
 
 
 ### Bloco 18: Context API & Reack Hooks
@@ -654,12 +654,12 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 16-5: _Testing with  React-Redux_
 
-:black_large_square:16-6: _Project - Trybe Wallet_
+:ballot_box_with_check:16-6: _Project - Trybe Wallet_
 
 
 ### Part 17: React Project
 
-:black_large_square: 17-1: _Project - Trivia Game_
+:ballot_box_with_check: 17-1: _Project - Trivia Game_
 
 
 ### Part 18: Context API & Reack Hooks

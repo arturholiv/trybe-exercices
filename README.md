@@ -212,7 +212,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 18: Context API & Reack Hooks
 
-:black_large_square: 18-1: _Context API do React_
+:ballot_box_with_check: 18-1: _Context API do React_
 
 :black_large_square: 18-2: _React Hooks - useState e useContext_
 
@@ -664,13 +664,13 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 18: Context API & Reack Hooks
 
-:black_large_square: 18-1: _Context API do React_
+:ballot_box_with_check: 18-1: _React Context API_
 
-:black_large_square: 18-2: _React Hooks - useState e useContext_
+:black_large_square: 18-2: _React Hooks - useState and useContext_
 
-:black_large_square: 18-3: _React Hooks - useEffect e Hooks customized_
+:black_large_square: 18-3: _React Hooks - useEffect and Hooks customized_
 
-:black_large_square: 18-4: _Project - StarWars Datatable com Context API e Hooks_
+:black_large_square: 18-4: _Project - StarWars Datatable with Context API and Hooks_
 
 
 ### Part 19: Front-end's final project

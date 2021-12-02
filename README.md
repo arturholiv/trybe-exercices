@@ -214,7 +214,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 18-1: _Context API do React_
 
-:black_large_square: 18-2: _React Hooks - useState e useContext_
+:ballot_box_with_check: _React Hooks - useState e useContext_
 
 :black_large_square: 18-3: _React Hooks - useEffect e Hooks customizados_
 
@@ -666,7 +666,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 18-1: _React Context API_
 
-:black_large_square: 18-2: _React Hooks - useState and useContext_
+:ballot_box_with_check: 18-2: _React Hooks - useState and useContext_
 
 :black_large_square: 18-3: _React Hooks - useEffect and Hooks customized_
 

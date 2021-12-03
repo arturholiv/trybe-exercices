@@ -216,7 +216,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: _React Hooks - useState e useContext_
 
-:black_large_square: 18-3: _React Hooks - useEffect e Hooks customizados_
+:ballot_box_with_check: 18-3: _React Hooks - useEffect e Hooks customizados_
 
 :black_large_square: 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
@@ -668,7 +668,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 18-2: _React Hooks - useState and useContext_
 
-:black_large_square: 18-3: _React Hooks - useEffect and Hooks customized_
+:ballot_box_with_check: 18-3: _React Hooks - useEffect and Hooks customized_
 
 :black_large_square: 18-4: _Project - StarWars Datatable with Context API and Hooks_
 

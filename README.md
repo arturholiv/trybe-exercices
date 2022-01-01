@@ -140,7 +140,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
   
 <details close> 
-<summary> <strong>Desenvolvimento Front-end :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong>Desenvolvimento Front-end :heavy_check_mark: <strong> </summary>
 
 
 ### Bloco 11: Introdução - React
@@ -594,7 +594,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 
 <details close> 
-<summary> <strong> Front-end development :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong> Front-end development :heavy_check_mark: <strong> </summary>
 
 
 ### Part 11: Introduction - React

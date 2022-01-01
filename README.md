@@ -218,12 +218,12 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 18-3: _React Hooks - useEffect e Hooks customizados_
 
-:black_large_square: 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
+:ballot_box_with_check: 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 
 ### Bloco 19: Projeto Final de Front-end
 
-:black_large_square: 19-1: _Projeto - App de Receitas_
+:ballot_box_with_check: 19-1: _Projeto - App de Receitas_
  
  </details>
  
@@ -670,12 +670,12 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 18-3: _React Hooks - useEffect and Hooks customized_
 
-:black_large_square: 18-4: _Project - StarWars Datatable with Context API and Hooks_
+:ballot_box_with_check: 18-4: _Project - StarWars Datatable with Context API and Hooks_
 
 
 ### Part 19: Front-end's final project
 
-:black_large_square: 19-1: _Project - Recipes app_
+:ballot_box_with_check: 19-1: _Project - Recipes app_
  
  </details>
 

@@ -1,6 +1,4 @@
-const convert = require('./brlValue');
+const { brl, usdToBrl } = require('./brValue');
 
-const usd = 10;
-const brl = convert(usd);
-
-console.log(brl)
+console.log(`Valor do dólar em Reais: ${brl}`);
+console.log(`10 dólares em reais: ${usdToBrl(10)}`);

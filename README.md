@@ -230,6 +230,13 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
 <details close> 
 <summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
+ 
+ ###Bloco 19: Docker: Utilizando Containers
+ 
+ :black_large_square: 19-1:  _Utilizando containers Docker_
+ :black_large_square: 19-2: _Manipulação e Criação de Imagens Docker_
+ :black_large_square: 19-3: _Orquestrando Containers com Docker Composer_
+ :black_large_square: 19-4: _Projeto Docker ToDoList_
 
 
 ### Bloco 20: Introdução - SQL
@@ -249,23 +256,27 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :black_large_square: 21-1: _Funções mais usadas no SQL_
 
-:black_large_square: 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
+:black_large_square: 21-2: _Descomplicando JOINs_
 
-:black_large_square: 21-3: _Stored Routines & Stored Functions_
+:black_large_square: 21-3: _Transformando ideias em um modelo de banco de dados_
 
-:black_large_square: 21-4: _Projeto - Vocabulary Booster_
+:black_large_square: 21-4: _Projeto - One for All_
 
 
-### Bloco 22: Normalização e Modelagem de Banco de Dados
+### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-:black_large_square: 22-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+:black_large_square: 22-1: _Node.js - um motor JavaScript_
 
-:black_large_square: 22-2: _Normalização, Formas Normais e Dumps_
+:black_large_square: 22-2: _Node.js - Fluxo Assíncrono_
 
-:black_large_square: 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+:black_large_square: 22-3: _mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
-:black_large_square: 22-3: _Projeto - One For All_
+:black_large_square: 22-4: _Express - HTTP com Node.js_
 
+:black_large_square: 22-5: _Express - Middlewares_
+ 
+:black_large_square: 22-6: _Projeto - Talker Manager_
+ 
  
 ### Bloco 23: Introdução - MongoDB
 

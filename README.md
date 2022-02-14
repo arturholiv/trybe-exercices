@@ -269,7 +269,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :black_large_square: 22-2: _Node.js - Fluxo Assíncrono_
 
-:black_large_square: 22-3: _mocha, Chai e Sinon - Testes de Back-end com Node.js_
+:black_large_square: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
 :black_large_square: 22-4: _Express - HTTP com Node.js_
 
@@ -278,112 +278,101 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 :black_large_square: 22-6: _Projeto - Talker Manager_
  
  
-### Bloco 23: Introdução - MongoDB
-
-:black_large_square: 23-1: _Introdução NoSQL e MongoDB_
-
-:black_large_square: 23-2: _Filter Operators_
-
-:black_large_square: 23-3: _Projeto - Data Flights_
-
-
-### Bloco 24: MongoDB: Updates simples e complexos
-
-:black_large_square: 24-1: _Updates Simples_
-
-:black_large_square: 24-2: _Updates Complexos - Arrays - Parte 1_
-
-:black_large_square: 24-3: _Updates Complexos - Arrays - Parte 2_
-
-:black_large_square: 24-4: _Projeto - Commerce_
-
-  
-### Bloco 25: MongoDB: Aggregation Framework
-
-:black_large_square: 25-1: _Aggregation Framework - Part 1_
-
-:black_large_square: 25-2: _Aggregation Framework - Part 2_
-
-:black_large_square: 25-3: _Projeto - Aggregations_
+### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
  
-### Bloco 26: Introdução - NodeJS
+ :black_large_square: 23-1: _Introdução - Arquitetura de Software - Camada de Model_
 
+:black_large_square: 23-2: _Arquitetura de Software - Camada de Controller e Service_
 
-:black_large_square: 26-1: _NodeJS - Introdução_
+:black_large_square: 23-3: _Arquitetura web - Rest e Restful_
 
-:black_large_square: 26-2: _NodeJS - Fluxo Assí­ncrono_
+:black_large_square: 23-4: _Arquitetura de Software - Testando as camadas_
 
-:black_large_square: 26-3: _Testes com NodeJS_
+:black_large_square: 23-5: _Projeto - Store Manager_
+ 
+ 
+ ### Bloco 24: Node.js: ORM e Autenticação
 
-:black_large_square: 26-4: _Express: HTTP com Node.js_
+:black_large_square: 24-1: _ORM - Interface da aplicação com o Banco de dados_
 
-:black_large_square: 26-5: _Praticando Express_
+:black_large_square: 24-2: _ORM - Associations_
 
-:black_large_square: 26-6: _Projeto - Talker Manager_
+:black_large_square: 24-3: _JWT - (JSON Web Token)_
 
+:black_large_square: 24-4: _Testando APIs com Testes de Integração_
+ 
+:black_large_square: 24-4: _Projeto - API de Blogs_
+ 
+ 
+ ### Bloco 25: Depoloyment
 
-### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+:black_large_square: 25-1: _Introdução - Deploy_
 
-:black_large_square: 27-1: _Introdução e Camada de Model: Arquitetura de Software_
+:black_large_square: 25-1: _Infraestrutura - Deploy com Heroku_
 
-:black_large_square: 27-2: _Arquitetura de Software - Camada de Controller e Service_
+:black_large_square: 25-2: _Gerenciadores de Processos_
 
-:black_large_square: 27-3: _Arquitetura Web - Rest e Restful_
+:black_large_square: 25-3: _Projeto - Stranger Things_
+ 
+ 
+ ### Bloco 26: TypeScript
 
-:black_large_square: 27-4: _Arquitetura de Software - Testando as Camadas_
+:black_large_square: 26-1: _Introdução ao TypeScript_
 
-:black_large_square: 27-3: _Projeto - Store Manager_
+:black_large_square: 26-2: _Tipagem Estática e Generics_
+
+:black_large_square: 26-3: _Express com TypeScript_
+ 
+:black_large_square: 26-4: _Projeto - Trybe Smith_
 
  
-### Bloco 28: Autenticação e Upload de Arquivos
+ ### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-:black_large_square: 28-1: _NodeJS - JWT - (JSON Web Token)_
+:black_large_square: 27-1: _Introdução à oOrientação a Objetos_
 
-:black_large_square: 28-2: _NodeJS - Updolad de arquivos com "multer"_
+:black_large_square: 27-2: _Herança e Interfaces_
 
-:black_large_square: 28-3: _Testando APIs com Teste de Integração_
+:black_large_square: 27-3: _Polimorfismo_
+ 
+:black_large_square: 27-4: _SOLID - Introdução e Princípios S, O e D_
+ 
+:black_large_square: 27-5: _SOLID - Princípios L e I_
+ 
+:black_large_square: 27-6: _Projeto - Trybers and Dragons_
+ 
+ 
+ ### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+ 
+ :black_large_square: 28-1: _Projeto - TFC - Trybe Futebol Clube_
+ 
+ 
+  ### Bloco 29: Introdução - MongoDB
 
-:black_large_square: 28-3: _Projeto - Cookmaster_
+:black_large_square: 29-1: _Introdução NoSQL e MongoDB_
 
+:black_large_square: 29-2: _Filter Operators_
 
-### Bloco 29: Depoloyment
+:black_large_square: 29-3: _Operadores de consulta_
+ 
+:black_large_square: 29-4: _Updates Simples_
 
-:black_large_square: 29-1: _Introdução - Deploy_
+:black_large_square: 29-5: _Updates Complexos - Arrays_
+ 
+:black_large_square: 29-6: _Projeto - Commerce_
+ 
+ 
+ ### Bloco 31: MasterClass - VPS, CI/CD
+ 
+ :black_large_square: 31-1: _Dia 1_
+ 
+ :black_large_square: 31-2: _Dia 2_
+ 
+ 
+ 
+ ### Bloco 32: Projeto App de Delivery
 
-:black_large_square: 29-1: _Infraestrutura - Deploy com Heroku_
-
-:black_large_square: 29-2: _Gerenciadores de Processos_
-
-:black_large_square: 29-3: _Projeto - Stranger Things_
-
-
-### Bloco 30: Arquitetura: SOLID e ORM
-
-:black_large_square: 30-1: _Arquitetura - Princípios SOLID_
-
-:black_large_square: 30-2: _ORM - Interface da aplicação com o banco de dados_
-
-:black_large_square: 30-3: _ORM - Associations_
-
-:black_large_square: 30-4: _Projeto - API de Blogs_
-
-
-### Bloco 31: Sockets
-
-:black_large_square: 31-1: _Arquitetura de Software - Camada de View_
-
-:black_large_square: 31-2: _Sockets - TCP/UDP & NET_
-
-:black_large_square: 31-3: _Sockets - Socket.io_
-
-:black_large_square: 31-4 _Sockets - Praticando Socket.io_
-
-:black_large_square: 31-5: _Projeto - Webchat_
-
-
-### Bloco 32: Projeto
-
-:black_large_square: 32-1: _Projeto - Trybeer V_
+:black_large_square: 32-1: _Projeto -App de Delivery_
+ 
  
  </details>
 

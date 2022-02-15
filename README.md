@@ -231,17 +231,20 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 <details close> 
 <summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
  
- ###Bloco 19: Docker: Utilizando Containers
+ ###Bloco 19: Docker
  
- :black_large_square: 19-1:  _Utilizando containers Docker_
- :black_large_square: 19-2: _Manipulação e Criação de Imagens Docker_
- :black_large_square: 19-3: _Orquestrando Containers com Docker Composer_
- :black_large_square: 19-4: _Projeto Docker ToDoList_
+ :ballot_box_with_check: 19-1:  _Utilizando containers Docker_
+ 
+ :ballot_box_with_check: 19-2: _Manipulação e Criação de Imagens Docker_
+ 
+ :ballot_box_with_check: 19-3: _Orquestrando Containers com Docker Composer_
+ 
+ :ballot_box_with_check: 19-4: _Projeto Docker ToDoList_
 
 
 ### Bloco 20: Introdução - SQL
 
-:black_large_square: 20-1: _Banco de dados SQL_
+:ballot_box_with_check: 20-1: _Banco de dados SQL_
 
 :black_large_square: 20-2: _Encontrando dados em um banco de dados_
 

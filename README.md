@@ -246,37 +246,37 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 20-1: _Banco de dados SQL_
 
-:black_large_square: 20-2: _Encontrando dados em um banco de dados_
+:ballot_box_with_check: 20-2: _Encontrando dados em um banco de dados_
 
-:black_large_square: 20-3: _Filtrando dados de forma especí­fica_
+:ballot_box_with_check: 20-3: _Filtrando dados de forma especí­fica_
 
-:black_large_square: 20-4: _Manipulando tabelas_
+:ballot_box_with_check: 20-4: _Manipulando tabelas_
 
-:black_large_square: 20-5: _Projeto - All For One_
+:ballot_box_with_check: 20-5: _Projeto - All For One_
 
  
 ### Bloco 21: Funções SQL, Joins e Subqueries
 
-:black_large_square: 21-1: _Funções mais usadas no SQL_
+:ballot_box_with_check: 21-1: _Funções mais usadas no SQL_
 
-:black_large_square: 21-2: _Descomplicando JOINs_
+:ballot_box_with_check: 21-2: _Descomplicando JOINs_
 
-:black_large_square: 21-3: _Transformando ideias em um modelo de banco de dados_
+:ballot_box_with_check: 21-3: _Transformando ideias em um modelo de banco de dados_
 
-:black_large_square: 21-4: _Projeto - One for All_
+:ballot_box_with_check: 21-4: _Projeto - One for All_
 
 
 ### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-:black_large_square: 22-1: _Node.js - um motor JavaScript_
+:ballot_box_with_check: _Node.js - um motor JavaScript_
 
-:black_large_square: 22-2: _Node.js - Fluxo Assíncrono_
+:ballot_box_with_check: 22-2: _Node.js - Fluxo Assíncrono_
 
-:black_large_square: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+:ballot_box_with_check: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
-:black_large_square: 22-4: _Express - HTTP com Node.js_
+:ballot_box_with_check: 22-4: _Express - HTTP com Node.js_
 
-:black_large_square: 22-5: _Express - Middlewares_
+:ballot_box_with_check: 22-5: _Express - Middlewares_
  
 :black_large_square: 22-6: _Projeto - Talker Manager_
  

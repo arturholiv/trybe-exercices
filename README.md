@@ -278,16 +278,16 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 22-5: _Express - Middlewares_
  
-:black_large_square: 22-6: _Projeto - Talker Manager_
+:ballot_box_with_check: 22-6: _Projeto - Talker Manager_
  
  
 ### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
  
- :black_large_square: 23-1: _Introdução - Arquitetura de Software - Camada de Model_
+ :ballot_box_with_check: 23-1: _Introdução - Arquitetura de Software - Camada de Model_
 
-:black_large_square: 23-2: _Arquitetura de Software - Camada de Controller e Service_
+:ballot_box_with_check: 23-2: _Arquitetura de Software - Camada de Controller e Service_
 
-:black_large_square: 23-3: _Arquitetura web - Rest e Restful_
+:ballot_box_with_check: 23-3: _Arquitetura web - Rest e Restful_
 
 :black_large_square: 23-4: _Arquitetura de Software - Testando as camadas_
 

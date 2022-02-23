@@ -4,23 +4,24 @@ function promiseRet(a, b, c) {
     reject('Informe apenas números');
 
     const result = (a + b) * c;
-
+    
     if (result < 50) {
       return reject('Valor muito baixo');
     }
-
+    
     resolve(result);
   })
 }
 
-promiseRet(10, 10, 10)
-  .then(resolve => console.log(resolve))
-  .catch(error => console.log(error))
+function randomNumber() {
+  return Math.floor(Math.random() * 100 + 1)
+}
 
-promiseRet(1, 1, 'a')
-  .then(resolve => console.log(resolve))
-  .catch(error => console.log(error))
+function getRandomNumbers() {
+  const randomNumbersArray = Array.from({length: 3}).map(randomNumber);
+  promiseRet(...randomNumbersArray)
+    .then(resolve => console.log(resolve))
+    .catch(error => console.log(error))
+}
 
-promiseRet(1, 1, 1)
-  .then(resolve => console.log(resolve))
-  .catch(error => console.log(error))
+getRandomNumbers();

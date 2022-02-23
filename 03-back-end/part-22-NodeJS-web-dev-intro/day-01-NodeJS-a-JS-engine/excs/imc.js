@@ -2,7 +2,7 @@ const readline = require('readline-sync');
 
 const calcImc = () => {
 
-  const peso = readline.questionInt('Qual o seu peso? (em kg)');
+  const peso = readline.questionFloat('Qual o seu peso? (em kg)');
   const altura = readline.questionInt('Qual a sua altura? (em cm)');
 
   console.log(` Peso: ${peso}, Altura: ${altura}`);
@@ -10,7 +10,32 @@ const calcImc = () => {
 
   console.log(`Seu IMC é: ${imc} `)
   console.log(` `)
-  console.log("Diz-se que o indivíduo tem peso normal quando o resultado do IMC está entre 18,5 e 24,9.")
+  if (imc < 18.5) {
+    console.log('Situação: Abaixo do peso (magreza)');
+    return;
+  }
+
+  if (imc >= 18.5 && imc < 25) {
+    console.log('Situação: Peso normal');
+    return;
+  }
+
+  if (imc >= 25 && imc < 30) {
+    console.log('Situação: Acima do peso (sobrepeso)');
+    return;
+  }
+
+  if (imc >= 30 && imc < 35) {
+    console.log('Situação: Obesidade grau I');
+    return;
+  }
+
+  if (imc >= 35 && imc < 40) {
+    console.log('Situação: Obesidade grau II');
+    return;
+  }
+
+  console.log('Situação: Obesidade graus III e IV');
 }
 
 calcImc()

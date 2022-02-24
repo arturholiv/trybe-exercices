@@ -18,7 +18,7 @@ app.get('/book', async function (req, res, next) {
   return res.status(200).json(books);
 });
 
-app.get('/books/:id', async (req, res) => {
+app.get('/book/:id', async (req, res) => {
   const { id } = req.params;
 
   const book = book.getById(id);

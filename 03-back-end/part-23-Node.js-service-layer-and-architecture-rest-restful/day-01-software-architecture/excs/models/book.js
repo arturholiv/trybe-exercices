@@ -33,6 +33,10 @@ const getById = async (id) => {
   }))[0];
 }
 
+const createAuthor = ({}) => {
+
+}
+
 module.exports = {
   getAll,
   getByAuthorId,

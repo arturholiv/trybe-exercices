@@ -1,12 +1,12 @@
+require('dotenv').config();
 const express = require('express');
-const bodyParser = require('body-parser');
 const bookModel = require('./models/book')
 
 const app = express();
 
-const PORT = 3000;
+app.use(express.json());
 
-app.use(bodyParser.json());
+const PORT = process.env.PORT || 3000;
 
 app.get('/book', async function (req, res, next) {
   const { author_id } = req.query;

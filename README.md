@@ -2,7 +2,7 @@
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 
-Este repositório contém todas as atividades que estão sendo desenvolvidas por [mim](https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2020 à 2021.
+Este repositório contém todas as atividades que estão sendo desenvolvidas por [mim](https://www.linkedin.com/in/arturholiv/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket: de 2021 à 2022.
 <blockquote> O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais
 Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</blockquote>
 
@@ -289,7 +289,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 23-3: _Arquitetura web - Rest e Restful_
 
-:black_large_square: 23-4: _Arquitetura de Software - Testando as camadas_
+:ballot_box_with_check: 23-4: _Arquitetura de Software - Testando as camadas_
 
 :black_large_square: 23-5: _Projeto - Store Manager_
  
@@ -457,7 +457,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  # English version - Trybe
 
 
- This repository contains all activities that are being developed by  _[Artur Henrique de Oliveira](https://www.linkedin.com/in/arturholiv/)_  while studying at  [Trybe](https://www.betrybe.com/)  🚀 (2020 - 2021).
+ This repository contains all activities that are being developed by  _[Artur Henrique de Oliveira](https://www.linkedin.com/in/arturholiv/)_  while studying at  [Trybe](https://www.betrybe.com/)  🚀 (2021 - 2022).
 
 <blockquote>The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.</blockquote>

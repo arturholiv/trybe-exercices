@@ -1,4 +1,4 @@
-const Author = require('../models/Author');
+const Author = require('../models/Authors');
 
 const getNewAuthor = (authorData) => {
   const { id, firstName, middleName, lastName } = authorData;
@@ -30,32 +30,15 @@ const getAll = async () => {
   return authors.map(getNewAuthor);
 }
 
-const createAuthor = async (firstName, middleName, lastName) => {
-  const validAuthor = isValid(firstName, middleName, lastName);
-
-  if (!validAuthor) return false;
-
-  await Author.createAuthor(firstName, middleName, lastName);
-
-  return true;
-};
-
 const findById = async (id) => {
-  const [author] = await Author.createAuthor(firstName, middleName, lastName)
+  const author = await Author.findById(id);
+
   if (!author) return null;
 
-  authorId = author.insertId;
-
-  return getNewAuthor({
-    id: authorId,
-    firstName,
-    middleName,
-    lastName,
-  })
+  return getNewAuthor(author);
 };
 
 module.exports = {
   getAll,
   findById,
-  createAuthor
-}
+} 

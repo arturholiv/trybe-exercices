@@ -291,7 +291,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 23-4: _Arquitetura de Software - Testando as camadas_
 
-:black_large_square: 23-5: _Projeto - Store Manager_
+:ballot_box_with_check: 23-5: _Projeto - Store Manager_
  
  
  ### Bloco 24: Node.js: ORM e Autenticação

@@ -296,13 +296,13 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  ### Bloco 24: Node.js: ORM e Autenticação
 
-:ballot_box_with_check: _ORM - Interface da aplicação com o Banco de dados_
+:ballot_box_with_check: 24-1: _ORM - Interface da aplicação com o Banco de dados_
 
-:ballot_box_with_check: _ORM - Associations_
+:ballot_box_with_check: 24-1: _ORM - Associations_
 
-:ballot_box_with_check: _JWT - (JSON Web Token)_
+:ballot_box_with_check: 24-2: _JWT - (JSON Web Token)_
 
-:ballot_box_with_check: _Testando APIs com Testes de Integração_
+:ballot_box_with_check: 24-3: _Testando APIs com Testes de Integração_
  
 :black_large_square: 24-4: _Projeto - API de Blogs_
  

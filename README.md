@@ -304,7 +304,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 24-3: _Testando APIs com Testes de Integração_
  
-:black_large_square: 24-4: _Projeto - API de Blogs_
+:black_large_square: 24-4 _Projeto - API de Blogs_
  
  
  ### Bloco 25: Depoloyment

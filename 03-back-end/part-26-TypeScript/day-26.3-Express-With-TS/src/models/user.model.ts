@@ -1,7 +1,7 @@
 import { Pool, ResultSetHeader } from 'mysql2/promise';
 import IUser from '../interfaces/user.interface';
 
-export class UserModel {
+export default class UserModel {
     private _connection: Pool;
   
     constructor(connection: Pool) {
@@ -26,6 +26,16 @@ export class UserModel {
       return user;
   }
 
+  public async getByEmail(email: string): Promise<IUser> {
+    const query = 'SELECT id, name, email FROM Users WHERE email=?'
+
+    const [users] = await this._connection.execute(query, [email]);
+
+    const [user] = users as IUser[];
+
+    return user;
+  }
+
   public async create(user: IUser): Promise<IUser> {
     const {name, email, password} = user;
 
@@ -44,6 +54,12 @@ export class UserModel {
     await this._connection.execute(query, [name, email, password, id]);
 
     return { id, name, email, password };
+  }
+
+  public async remove(id: number): Promise<void> {
+    const query = 'DELETE FROM Users WHERE id=?';
+
+    await this._connection.execute(query, [id]);
   }
   
 }

@@ -1,7 +1,15 @@
-import express from 'express';
-// import usersController from '../models/user.controller';
+import { Router } from 'express';
+import UserController from '../controller/user.controller';
 
+const userController = new UserController();
 
-const route = express();
+const router = Router();
 
-// route.get('/', usersController.getAll);
+router
+  .get('/', userController.getAll)
+  .post('/', userController.create)
+  .get('/:id', userController.getById)
+  .put('/:id', userController.update)
+  .delete('/:id', userController.remove);
+
+export default router;

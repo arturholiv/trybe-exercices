@@ -1,0 +1,24 @@
+{
+  "name": "sd-016-b-live-lectures",
+  "version": "1.0.0",
+  "description": "Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryber/sd-016-b-live-lectures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryber/sd-016-b-live-lectures/issues"
+  },
+  "homepage": "https://github.com/tryber/sd-016-b-live-lectures#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.34",
+    "typescript": "^4.6.4"
+  }
+}

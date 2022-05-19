@@ -304,38 +304,38 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 24-3: _Testando APIs com Testes de Integração_
  
-:black_large_square: 24-4 _Projeto - API de Blogs_
+:ballot_box_with_check: 24-4 _Projeto - API de Blogs_
  
  
  ### Bloco 25: Depoloyment
 
-:black_large_square: 25-1: _Introdução - Deploy_
+:ballot_box_with_check: 25-1: _Introdução - Deploy_
 
-:black_large_square: 25-1: _Infraestrutura - Deploy com Heroku_
+:ballot_box_with_check: 25-1: _Infraestrutura - Deploy com Heroku_
 
-:black_large_square: 25-2: _Gerenciadores de Processos_
+:ballot_box_with_check: 25-2: _Gerenciadores de Processos_
 
-:black_large_square: 25-3: _Projeto - Stranger Things_
+:ballot_box_with_check: 25-3: _Projeto - Stranger Things_
  
  
  ### Bloco 26: TypeScript
 
-:black_large_square: 26-1: _Introdução ao TypeScript_
+:ballot_box_with_check: 26-1: _Introdução ao TypeScript_
 
-:black_large_square: 26-2: _Tipagem Estática e Generics_
+:ballot_box_with_check: 26-2: _Tipagem Estática e Generics_
 
-:black_large_square: 26-3: _Express com TypeScript_
+:ballot_box_with_check: 26-3: _Express com TypeScript_
  
-:black_large_square: 26-4: _Projeto - Trybe Smith_
+:ballot_box_with_check: 26-4: _Projeto - Trybe Smith_
 
  
  ### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-:black_large_square: 27-1: _Introdução à oOrientação a Objetos_
+:ballot_box_with_check: 27-1: _Introdução à oOrientação a Objetos_
 
-:black_large_square: 27-2: _Herança e Interfaces_
+:ballot_box_with_check: 27.2 _Herança e Interfaces_
 
-:black_large_square: 27-3: _Polimorfismo_
+:ballot_box_with_check: 27-3: _Polimorfismo_
  
 :black_large_square: 27-4: _SOLID - Introdução e Princípios S, O e D_
  

@@ -10,7 +10,7 @@ export default class Nurse extends Employee implements IEmployee {
         this._corenNumber = corenNumber;
         this._inAttendance = false;
     }
-    
+
     startWork(): number {
         throw new Error("Method not implemented.");
     }
@@ -18,7 +18,7 @@ export default class Nurse extends Employee implements IEmployee {
     lunchTime(food: string): void {
         throw new Error("Method not implemented.");
     }
-    
+
     finishWork(): void {
         throw new Error("Method not implemented.");
     }

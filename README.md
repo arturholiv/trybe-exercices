@@ -337,11 +337,11 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 27-3: _Polimorfismo_
  
-:black_large_square: 27-4: _SOLID - Introdução e Princípios S, O e D_
+:ballot_box_with_check: 27-4: _SOLID - Introdução e Princípios S, O e D_
  
-:black_large_square: 27-5: _SOLID - Princípios L e I_
+:ballot_box_with_check: 27-5: _SOLID - Princípios L e I_
  
-:black_large_square: 27-6: _Projeto - Trybers and Dragons_
+:ballot_box_with_check: 27-6: _Projeto - Trybers and Dragons_
  
  
  ### Bloco 28: Projeto - TFC - Trybe Futebol Clube

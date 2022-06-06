@@ -507,7 +507,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 :ballot_box_with_check: 4-5: _Project - Playground Functions_
 
 
-### Part 5: Javascript: DOM, Events and Web Storage
+### Part 5: Javascript: DOM, Events and Web Storage 
 
 :ballot_box_with_check: _JavaScript - DOM and selectors_
 

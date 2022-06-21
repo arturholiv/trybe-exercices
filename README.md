@@ -351,7 +351,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
   ### Bloco 29: Introdução - MongoDB
 
-:black_large_square: 29-1: _Introdução NoSQL e MongoDB_
+:ballot_box_with_check: 29-1: _Introdução NoSQL e MongoDB_
 
 :black_large_square: 29-2: _Filter Operators_
 

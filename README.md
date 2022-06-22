@@ -346,14 +346,14 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  ### Bloco 28: Projeto - TFC - Trybe Futebol Clube
  
- :black_large_square: 28-1: _Projeto - TFC - Trybe Futebol Clube_
+ :ballot_box_with_check: 28-1: _Projeto - TFC - Trybe Futebol Clube_
  
  
   ### Bloco 29: Introdução - MongoDB
 
 :ballot_box_with_check: 29-1: _Introdução NoSQL e MongoDB_
 
-:black_large_square: 29-2: _Filter Operators_
+:ballot_box_with_check: 29-2: _Filter Operators_
 
 :black_large_square: 29-3: _Operadores de consulta_
  

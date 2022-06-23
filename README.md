@@ -355,7 +355,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 29-2: _Filter Operators_
 
-:black_large_square: 29-3: _Operadores de consulta_
+:ballot_box_with_check: 29-3: _Operadores de consulta_
  
 :black_large_square: 29-4: _Updates Simples_
 

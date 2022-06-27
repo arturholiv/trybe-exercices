@@ -357,11 +357,11 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 29-3: _Operadores de consulta_
  
-:black_large_square: 29-4: _Updates Simples_
+:ballot_box_with_check: _Updates Simples_
 
-:black_large_square: 29-5: _Updates Complexos - Arrays_
+:ballot_box_with_check: _Updates Complexos - Arrays_
  
-:black_large_square: 29-6: _Projeto - Commerce_
+:ballot_box_with_check: 29-6: _Projeto - Commerce_
  
  
  ### Bloco 31: MasterClass - VPS, CI/CD

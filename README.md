@@ -366,15 +366,15 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  ### Bloco 31: MasterClass - VPS, CI/CD
  
- :black_large_square: 31-1: _Dia 1_
+ :ballot_box_with_check: 31-1: _Dia 1_
  
- :black_large_square: 31-2: _Dia 2_
+ :ballot_box_with_check: 31-2: _Dia 2_
  
  
  
  ### Bloco 32: Projeto App de Delivery
 
-:black_large_square: 32-1: _Projeto -App de Delivery_
+:ballot_box_with_check: 32-1: _Projeto -App de Delivery_
  
  
  </details>

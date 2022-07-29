@@ -229,7 +229,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  
 <details close> 
-<summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong> Desenvolvimento Back-end  :heavy_check_mark: <strong> </summary>
  
  ###Bloco 19: Docker
  

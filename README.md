@@ -384,9 +384,9 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
 ### Bloco 33: Introdução - Ciência da Computação
 
-:black_large_square:  33-1: _Arquitetura de Computadores_
+:ballot_box_with_check:  33-1: _Arquitetura de Computadores_
 
-:black_large_square: 33-2: _Arquitetura de redes_
+:ballot_box_with_check: 33-2: _Arquitetura de redes_
 
 :black_large_square: 33-3: _Redes de computadores, ferramentas e segurança_
 

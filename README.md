@@ -387,33 +387,33 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 ### Bloco 33: Introdução à Python
 
-:black_large_square: 33-1: _Introdução - Ciência da Computação_
+:ballot_box_with_check: 33-1: _Introdução - Ciência da Computação_
 
-:black_large_square: 33-1: _Aprendendo Python_
+:ballot_box_with_check: 33-1: _Aprendendo Python_
 
-:black_large_square: 33-2: _Entrada e Saída de Dados_
+:ballot_box_with_check: 33-2: _Entrada e Saída de Dados_
 
-:black_large_square: 33-3: _Testes_
+:ballot_box_with_check: 33-3: _Testes_
 
-:black_large_square: 33-4: _Projeto - Job Insights_
+:ballot_box_with_check: 33-4: _Projeto - Job Insights_
 
 
 ### Bloco 34: Padrões de Projeto
 
-:black_large_square: 34-1: _POO em Python_
+:ballot_box_with_check: 34-1: _POO em Python_
 
-:black_large_square: 34-2: _Padrões - Iterator, Adapter, Strategy_
+:ballot_box_with_check: 34-2: _Padrões - Iterator, Adapter, Strategy_
 
-:black_large_square: 34-3: _Padrões - Decorator, Observer, Factory_
+:ballot_box_with_check: 34-3: _Padrões - Decorator, Observer, Factory_
 
-:black_large_square: 34-4: _Projeto - Relatórios de Estoque_
+:ballot_box_with_check: 34-4: _Projeto - Relatórios de Estoque_
 
 
 ### Bloco 35: Redes e Raspagem de Dados
 
-:black_large_square: 35-1: _Arquitetura de redes, ferramentas e segurança_
+:ballot_box_with_check: 35-1: _Arquitetura de redes, ferramentas e segurança_
 
-:black_large_square: 35-2: _Raspagem de dados_
+:ballot_box_with_check: 35-2: _Raspagem de dados_
 
 :black_large_square: 35-3: _Projeto - Tech news_
 

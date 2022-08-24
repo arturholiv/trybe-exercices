@@ -229,7 +229,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  
  
 <details close> 
-<summary> <strong> Desenvolvimento Back-end :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong> Desenvolvimento Back-end  :heavy_check_mark: <strong> </summary>
  
  ###Bloco 19: Docker
  
@@ -337,87 +337,88 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 27-3: _Polimorfismo_
  
-:black_large_square: 27-4: _SOLID - Introdução e Princípios S, O e D_
+:ballot_box_with_check: 27-4: _SOLID - Introdução e Princípios S, O e D_
  
-:black_large_square: 27-5: _SOLID - Princípios L e I_
+:ballot_box_with_check: 27-5: _SOLID - Princípios L e I_
  
-:black_large_square: 27-6: _Projeto - Trybers and Dragons_
+:ballot_box_with_check: 27-6: _Projeto - Trybers and Dragons_
  
  
  ### Bloco 28: Projeto - TFC - Trybe Futebol Clube
  
- :black_large_square: 28-1: _Projeto - TFC - Trybe Futebol Clube_
+ :ballot_box_with_check: 28-1: _Projeto - TFC - Trybe Futebol Clube_
  
  
   ### Bloco 29: Introdução - MongoDB
 
-:black_large_square: 29-1: _Introdução NoSQL e MongoDB_
+:ballot_box_with_check: 29-1: _Introdução NoSQL e MongoDB_
 
-:black_large_square: 29-2: _Filter Operators_
+:ballot_box_with_check: 29-2: _Filter Operators_
 
-:black_large_square: 29-3: _Operadores de consulta_
+:ballot_box_with_check: 29-3: _Operadores de consulta_
  
-:black_large_square: 29-4: _Updates Simples_
+:ballot_box_with_check: _Updates Simples_
 
-:black_large_square: 29-5: _Updates Complexos - Arrays_
+:ballot_box_with_check: _Updates Complexos - Arrays_
  
-:black_large_square: 29-6: _Projeto - Commerce_
+:ballot_box_with_check: 29-6: _Projeto - Commerce_
  
  
  ### Bloco 31: MasterClass - VPS, CI/CD
  
- :black_large_square: 31-1: _Dia 1_
+ :ballot_box_with_check: 31-1: _Dia 1_
  
- :black_large_square: 31-2: _Dia 2_
+ :ballot_box_with_check: 31-2: _Dia 2_
  
  
  
  ### Bloco 32: Projeto App de Delivery
 
-:black_large_square: 32-1: _Projeto -App de Delivery_
+:ballot_box_with_check: 32-1: _Projeto -App de Delivery_
  
  
  </details>
 
 <details close> 
 <summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
- 
-### Bloco 33: Introdução - Ciência da Computação
-
-:black_large_square:  33-1: _Arquitetura de Computadores_
-
-:black_large_square: 33-2: _Arquitetura de redes_
-
-:black_large_square: 33-3: _Redes de computadores, ferramentas e segurança_
 
 :black_large_square: 35-4: _Projeto - Explorando os protocolos_
 
 
-### Bloco 34: Introdução - Python e Raspagem de Dados da Web
+### Bloco 33: Introdução à Python
 
-:black_large_square: 34-1: _Aprendendo Python_
+:ballot_box_with_check: 33-1: _Introdução - Ciência da Computação_
 
-:black_large_square: 34-2: _Entrada e Saída de Dados_
+:ballot_box_with_check: 33-1: _Aprendendo Python_
 
-:black_large_square: 34-3: _Raspagem de Dados_
+:ballot_box_with_check: 33-2: _Entrada e Saída de Dados_
 
-:black_large_square: 34-4: _Testes_
+:ballot_box_with_check: 33-3: _Testes_
 
-:black_large_square: 34-5: _Projeto - Tech news_
-
-
-### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
-
-:black_large_square: 35-1: _Introdução - Programação orientada a objetos_
-
-:black_large_square: 35-2: _Herança, Composição e Interfaces_
-
-:black_large_square: 35-3: _Padrões de projeto_
-
-:black_large_square: 35-4: _Projeto - Relatórios de Estoque_
+:ballot_box_with_check: 33-4: _Projeto - Job Insights_
 
 
-### Bloco 36: Algoritmos e Estrutura de Dados
+### Bloco 34: Padrões de Projeto
+
+:ballot_box_with_check: 34-1: _POO em Python_
+
+:ballot_box_with_check: 34-2: _Padrões - Iterator, Adapter, Strategy_
+
+:ballot_box_with_check: 34-3: _Padrões - Decorator, Observer, Factory_
+
+:ballot_box_with_check: 34-4: _Projeto - Relatórios de Estoque_
+
+
+### Bloco 35: Redes e Raspagem de Dados
+
+:ballot_box_with_check: 35-1: _Arquitetura de redes, ferramentas e segurança_
+
+:ballot_box_with_check: 35-2: _Raspagem de dados_
+
+:black_large_square: 35-3: _Projeto - Tech news_
+
+
+### Bloco 36: Algoritmos
 
 :black_large_square: 36-1: _Complexidade de Algoritmos_
 
@@ -425,30 +426,31 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :black_large_square: 36-3: _Algoritmos de ordenação e busca_
 
-:black_large_square: 36-4: _Projeto - Algoritmos_
+:black_large_square: 36-3: _Projeto - Algoritmos_
 
 
-### Bloco 37: Estrutura de Dados: Hash e Set
+### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
 
-:black_large_square: 37-1: _Arrays_
+:black_large_square: 37-1: _Arquitetura de computadores_
 
-:black_large_square: 37-2: _Hashmap e Dict_
+:black_large_square: 37-2: _Arrays_
 
-:black_large_square: 37-3: _Set_
+:black_large_square: 37-3: _Nó e Listas Encadeadas_
+ 
+ :black_large_square: 37-4: _Pilhas e filas_
 
-:black_large_square: 37-3: _Projeto - Restaurant Orders_
+:black_large_square: 37-5: _Projeto: TING - Trybe Is Not Google_
+ 
+ 
+ ### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
 
+:black_large_square: 38-1: _Hashmap e Dict_
 
-### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
+:black_large_square: 38-2: _Set_
 
-:black_large_square: 38-1: _Nó e Listas Encadeadas_
+:black_large_square: 38-5: _Projeto: Restaurant Orders_
 
-:black_large_square: 38-2: _Deque_
-
-:black_large_square: 38-3: _Pilhas_
-
-:black_large_square: 38-4: _Projeto: TING - Trybe Is Not Google_
-
+ 
 </details>
  
 # [...]
@@ -507,7 +509,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 :ballot_box_with_check: 4-5: _Project - Playground Functions_
 
 
-### Part 5: Javascript: DOM, Events and Web Storage
+### Part 5: Javascript: DOM, Events and Web Storage 
 
 :ballot_box_with_check: _JavaScript - DOM and selectors_
 

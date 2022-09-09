@@ -6,3 +6,6 @@ def test_soma_positivos():
 
 def test_soma_negativos():
     assert soma(-3, -5) == -8
+
+
+"""pytest soma.py -v => to run"""

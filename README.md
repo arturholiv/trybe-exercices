@@ -69,11 +69,11 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 5-6: _Projeto - Lista de tarefas_
 
-:black_large_square: 5-7: _Projeto Bônus - Meme Generator_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Meme Generator_
 
-:black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Adivinhe a cor_
 
-:black_large_square: 5-7: _Projeto Bônus - Carta Misteriosa_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
 
 
 ### Bloco 6: HTML & CSS avançado
@@ -382,7 +382,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 <details close> 
 <summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
 
-:black_large_square: 35-4: _Projeto - Explorando os protocolos_
+:ballot_box_with_check: 35-4: _Projeto - Explorando os protocolos_
 
 
 ### Bloco 33: Introdução à Python
@@ -415,40 +415,40 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
 
 :ballot_box_with_check: 35-2: _Raspagem de dados_
 
-:black_large_square: 35-3: _Projeto - Tech news_
+:ballot_box_with_check: 35-3: _Projeto - Tech news_
 
 
 ### Bloco 36: Algoritmos
 
-:black_large_square: 36-1: _Complexidade de Algoritmos_
+:ballot_box_with_check: 36-1: _Complexidade de Algoritmos_
 
-:black_large_square: 36-2: _Recursividade e Estratégias para solução de problemas_
+:ballot_box_with_check: 36-2: _Recursividade e Estratégias para solução de problemas_
 
-:black_large_square: 36-3: _Algoritmos de ordenação e busca_
+:ballot_box_with_check: 36-3: _Algoritmos de ordenação e busca_
 
-:black_large_square: 36-3: _Projeto - Algoritmos_
+:ballot_box_with_check: 36-3: _Projeto - Algoritmos_
 
 
 ### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
 
-:black_large_square: 37-1: _Arquitetura de computadores_
+:ballot_box_with_check: 37-1: _Arquitetura de computadores_
 
-:black_large_square: 37-2: _Arrays_
+:ballot_box_with_check: 37-2: _Arrays_
 
-:black_large_square: 37-3: _Nó e Listas Encadeadas_
+:ballot_box_with_check: 37-3: _Nó e Listas Encadeadas_
  
- :black_large_square: 37-4: _Pilhas e filas_
+ :ballot_box_with_check: 37-4: _Pilhas e filas_
 
-:black_large_square: 37-5: _Projeto: TING - Trybe Is Not Google_
+:ballot_box_with_check: 37-5: _Projeto: TING - Trybe Is Not Google_
  
  
  ### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
 
-:black_large_square: 38-1: _Hashmap e Dict_
+:ballot_box_with_check: 38-1: _Hashmap e Dict_
 
-:black_large_square: 38-2: _Set_
+:ballot_box_with_check: 38-2: _Set_
 
-:black_large_square: 38-5: _Projeto: Restaurant Orders_
+:ballot_box_with_check: 38-5: _Projeto: Restaurant Orders_
 
  
 </details>
@@ -527,11 +527,11 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 5-6: _Project - To Do List_
 
-:black_large_square: 5-7: _Bonus Project - Meme Generator_
+:ballot_box_with_check: 5-7: _Bonus Project - Meme Generator_
 
-:black_large_square: 5-7: _Bonus Project - Guess the Colour_
+:ballot_box_with_check: 5-7: _Bonus Project - Guess the Colour_
 
-:black_large_square: 5-7: _Bonus Project - Mysterious Card_
+:ballot_box_with_check: 5-7: _Bonus Project - Mysterious Card_
 
 
 ### Part 6: advanced HTML & CSS 
@@ -685,149 +685,149 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  </details>
 
 <details close> 
-<summary> <strong> Back-end development :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong> Back-end development :heavy_check_mark: <strong> </summary>
 
 
 ### Part 20: Introduction - SQL
 
-:black_large_square: 20-1: _Bank Database using SQL_
+:ballot_box_with_check: 20-1: _Bank Database using SQL_
 
-:black_large_square: 20-2: _Finding data in a database_
+:ballot_box_with_check: 20-2: _Finding data in a database_
 
-:black_large_square: 20-3: _Filtering data in a specific way_
+:ballot_box_with_check: 20-3: _Filtering data in a specific way_
 
-:black_large_square: 20-4: _Manipulating tables with SQL_
+:ballot_box_with_check: 20-4: _Manipulating tables with SQL_
 
-:black_large_square: 20-5: _Project - All For One_
+:ballot_box_with_check: 20-5: _Project - All For One_
 
  
 ### Part 21: Functions SQL, Joins and Subqueries
 
-:black_large_square: 21-1: _Most used functions in SQL_
+:ballot_box_with_check: 21-1: _Most used functions in SQL_
 
-:black_large_square: 21-2: _JOINs, UNIONs e Subqueries_
+:ballot_box_with_check: 21-2: _JOINs, UNIONs e Subqueries_
 
-:black_large_square: 21-3: _Stored Routines & Stored Functions_
+:ballot_box_with_check: 21-3: _Stored Routines & Stored Functions_
 
-:black_large_square: 21-4: _Project - Vocabulary Booster_
+:ballot_box_with_check: 21-4: _Project - Vocabulary Booster_
 
 
 ### Part 22: Normalization and structuring database
 
-:black_large_square: 22-1: _Transforming ideias in a database model - Part 1_
+:ballot_box_with_check: 22-1: _Transforming ideias in a database model - Part 1_
 
-:black_large_square: 22-2: _Normalization, Normal form and Dumps_
+:ballot_box_with_check: 22-2: _Normalization, Normal form and Dumps_
 
-:black_large_square: 22-2: _Transforming ideias in a database model - Part 2_
+:ballot_box_with_check: 22-2: _Transforming ideias in a database model - Part 2_
 
-:black_large_square: 22-3: _Project - One For All_
+:ballot_box_with_check: 22-3: _Project - One For All_
 
  
 ### Part 23: Introduction - MongoDB
 
-:black_large_square: 23-1: _Introduction to NoSQL e MongoDB_
+:ballot_box_with_check: 23-1: _Introduction to NoSQL e MongoDB_
 
-:black_large_square: 23-2: _Filter Operators_
+:ballot_box_with_check: 23-2: _Filter Operators_
 
-:black_large_square: 23-3: _Project - Data Flights_
+:ballot_box_with_check: 23-3: _Project - Data Flights_
 
 
 ### Part 24: MongoDB: Simple and complex updates
 
-:black_large_square: 24-1: _Simple Updates _
+:ballot_box_with_check: 24-1: _Simple Updates _
 
-:black_large_square: 24-2: _Complex Updates  - Arrays - Part 1_
+:ballot_box_with_check: 24-2: _Complex Updates  - Arrays - Part 1_
 
-:black_large_square: 24-3: _Complex Updates - Arrays - Part 2_
+:ballot_box_with_check: 24-3: _Complex Updates - Arrays - Part 2_
 
-:black_large_square: 24-4: _Project - Commerce_
+:ballot_box_with_check: 24-4: _Project - Commerce_
 
   
 ### Part 25: MongoDB: Aggregation Framework
 
-:black_large_square: 25-1: _Aggregation Framework - Part 1_
+:ballot_box_with_check: 25-1: _Aggregation Framework - Part 1_
 
-:black_large_square: 25-2: _Aggregation Framework - Part 2_
+:ballot_box_with_check: 25-2: _Aggregation Framework - Part 2_
 
-:black_large_square: 25-3: _Project - Aggregations_
+:ballot_box_with_check: 25-3: _Project - Aggregations_
 
 ### Part 26: Introduction - NodeJS
 
-:black_large_square: 26-1: _NodeJS - Introduçtion_
+:ballot_box_with_check: 26-1: _NodeJS - Introduçtion_
 
-:black_large_square: 26-2: _NodeJS - Asynchronous flow_
+:ballot_box_with_check: 26-2: _NodeJS - Asynchronous flow_
 
-:black_large_square: 26-3: _Testing with NodeJS_
+:ballot_box_with_check: 26-3: _Testing with NodeJS_
 
-:black_large_square: 26-4: _Express: HTTP with Node.js_
+:ballot_box_with_check: 26-4: _Express: HTTP with Node.js_
 
-:black_large_square: 26-5: _Practicing Express_
+:ballot_box_with_check: 26-5: _Practicing Express_
 
-:black_large_square: 26-6: _Project - Talker Manager_
+:ballot_box_with_check: 26-6: _Project - Talker Manager_
 
 
 ### Part 27: NodeJS: Service layer, Rest and Restful Architecture
 
-:black_large_square: 27-1: _Introduction, Service Layer e Layered: Software Architecture_
+:ballot_box_with_check: 27-1: _Introduction, Service Layer e Layered: Software Architecture_
 
-:black_large_square: 27-2: _Software Architecture - Service layer and controller_
+:ballot_box_with_check: 27-2: _Software Architecture - Service layer and controller_
 
-:black_large_square: 27-3: _Web Architecture - Rest and Restful_
+:ballot_box_with_check: 27-3: _Web Architecture - Rest and Restful_
 
-:black_large_square: 27-4: _Software Architecture - Testing layers_
+:ballot_box_with_check: 27-4: _Software Architecture - Testing layers_
 
-:black_large_square: 27-3: _Project - Store Manager_
+:ballot_box_with_check: 27-3: _Project - Store Manager_
 
  
 ### Part 28: Authentication and file uploads
 
-:black_large_square: 28-1: _NodeJS - JWT - (JSON Web Token)_
+:ballot_box_with_check: 28-1: _NodeJS - JWT - (JSON Web Token)_
 
-:black_large_square: 28-2: _NodeJS - Uploading files with "multer"_
+:ballot_box_with_check: 28-2: _NodeJS - Uploading files with "multer"_
 
-:black_large_square: 28-3: _Testing APIs with Integration Test_
+:ballot_box_with_check: 28-3: _Testing APIs with Integration Test_
 
-:black_large_square: 28-3: _Project - Cookmaster_
+:ballot_box_with_check: 28-3: _Project - Cookmaster_
 
 
 ### Part 29: Deployment
 
-:black_large_square: 29-1: _Introduction - Deploy_
+:ballot_box_with_check: 29-1: _Introduction - Deploy_
 
-:black_large_square: 29-1: _Heroku Deployment_
+:ballot_box_with_check: 29-1: _Heroku Deployment_
 
-:black_large_square: 29-2: _Process Managers_
+:ballot_box_with_check: 29-2: _Process Managers_
 
-:black_large_square: 29-3: _Project - Stranger Things_
+:ballot_box_with_check: 29-3: _Project - Stranger Things_
 
 
 ### Part 30: Architecture: SOLID and ORM
 
-:black_large_square: 30-1: _Architecture - SOLID principles_
+:ballot_box_with_check: 30-1: _Architecture - SOLID principles_
 
-:black_large_square: 30-2: _ORM_
+:ballot_box_with_check: 30-2: _ORM_
 
-:black_large_square: 30-3: _ORM - Associations_
+:ballot_box_with_check: 30-3: _ORM - Associations_
 
-:black_large_square: 30-4: _Project - Blog's API_
+:ballot_box_with_check: 30-4: _Project - Blog's API_
 
 
 ### Part 31: Sockets
 
-:black_large_square: 31-1: _Software Architecture - View's layer_
+:ballot_box_with_check: 31-1: _Software Architecture - View's layer_
 
-:black_large_square: 31-2: _Sockets - TCP/UDP & NET_
+:ballot_box_with_check: 31-2: _Sockets - TCP/UDP & NET_
 
-:black_large_square: 31-3: _Sockets - Socket.io_
+:ballot_box_with_check: 31-3: _Sockets - Socket.io_
 
-:black_large_square: 31-4 _Sockets - Practicing Socket.io_
+:ballot_box_with_check: 31-4 _Sockets - Practicing Socket.io_
 
-:black_large_square: 31-5: _Project - Webchat_
+:ballot_box_with_check: 31-5: _Project - Webchat_
 
 
 ### Part 32: Project
 
-:black_large_square: 34-1: _Project - Trybeer V_
+:ballot_box_with_check: 34-1: _Project - Trybeer V_
 
  </details>
  
@@ -837,70 +837,70 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  
 ### Bloco 33: Introduction - Computer Science
 
-:black_large_square:  33-1: _Computer Architecture_
+:ballot_box_with_check:  33-1: _Computer Architecture_
 
-:black_large_square: 33-2: _Network_
+:ballot_box_with_check: 33-2: _Network_
 
-:black_large_square: 33-3: _Network and security tools_
+:ballot_box_with_check: 33-3: _Network and security tools_
 
-:black_large_square: 35-4: _Project - Exploring the protocols_
+:ballot_box_with_check: 35-4: _Project - Exploring the protocols_
 
 
 ### Bloco 34: Introduction - Python and Web Data Scraping
 
-:black_large_square: 34-1: _Learning Python_
+:ballot_box_with_check: 34-1: _Learning Python_
 
-:black_large_square: 34-2: _Input and Output_
+:ballot_box_with_check: 34-2: _Input and Output_
 
-:black_large_square: 34-3: _Data Scraping_
+:ballot_box_with_check: 34-3: _Data Scraping_
 
-:black_large_square: 34-4: _Testing_
+:ballot_box_with_check: 34-4: _Testing_
 
-:black_large_square: 34-5: _Project - Tech news_
+:ballot_box_with_check: 34-5: _Project - Tech news_
 
 
 ### Bloco 35: Object Oriented Programming and Design Patterns
 
-:black_large_square: 35-1: _Introduction - Object Oriented Programming and Design Patterns_
+:ballot_box_with_check: 35-1: _Introduction - Object Oriented Programming and Design Patterns_
 
-:black_large_square: 35-2: _Inheritance, composition and Interfaces_
+:ballot_box_with_check: 35-2: _Inheritance, composition and Interfaces_
 
-:black_large_square: 35-3: _Design patterns_
+:ballot_box_with_check: 35-3: _Design patterns_
 
-:black_large_square: 35-4: _Project - Project Report_
+:ballot_box_with_check: 35-4: _Project - Project Report_
 
 
 ### Bloco 36: Algorithms and Data Structure
 
-:black_large_square: 36-1: _Algorithmic Complexity_
+:ballot_box_with_check: 36-1: _Algorithmic Complexity_
 
-:black_large_square: 36-2: _Recursinevess and Strategic thinking in problem solving_
+:ballot_box_with_check: 36-2: _Recursinevess and Strategic thinking in problem solving_
 
-:black_large_square: 36-3: _Searching and sorting algorithms_
+:ballot_box_with_check: 36-3: _Searching and sorting algorithms_
 
-:black_large_square: 36-4: _Project - Algorithms_
+:ballot_box_with_check: 36-4: _Project - Algorithms_
 
 
 ### Bloco 37: Data Structure: Hash and Set
 
-:black_large_square: 37-1: _Arrays_
+:ballot_box_with_check: 37-1: _Arrays_
 
-:black_large_square: 37-2: _Hashmap and Dict_
+:ballot_box_with_check: 37-2: _Hashmap and Dict_
 
-:black_large_square: 37-3: _Set_
+:ballot_box_with_check: 37-3: _Set_
 
-:black_large_square: 37-3: _Project - Restaurant Orders_
+:ballot_box_with_check: 37-3: _Project - Restaurant Orders_
 
 
 ### Bloco 38: Data Structure: Lists, stacks and queues
 
-:black_large_square: 38-1: _Linked Lists_
+:ballot_box_with_check: 38-1: _Linked Lists_
 
-:black_large_square: 38-2: _Deque_
+:ballot_box_with_check: 38-2: _Deque_
 
-:black_large_square: 38-3: _Stacks_
+:ballot_box_with_check: 38-3: _Stacks_
 
-:black_large_square: 38-4: _Project: TING - Trybe Is Not Google_
+:ballot_box_with_check: 38-4: _Project: TING - Trybe Is Not Google_
 
  </details>
 

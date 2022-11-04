@@ -380,7 +380,7 @@ Dentre as principais habilidades desenvolvidas estão JavaScript, HTML, CSS, Rea
  </details>
 
 <details close> 
-<summary> <strong>Ciência da Computação :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong>Ciência da Computação :heavy_check_mark: <strong> </summary>
 
 :ballot_box_with_check: 35-4: _Projeto - Explorando os protocolos_
 
@@ -832,7 +832,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  </details>
  
 <details close> 
-<summary> <strong> Computer Science :hourglass_flowing_sand: <strong> </summary>
+<summary> <strong> Computer Science :heavy_check_mark: <strong> </summary>
 
  
 ### Bloco 33: Introduction - Computer Science
